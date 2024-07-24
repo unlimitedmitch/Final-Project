@@ -1,0 +1,1005 @@
+name,email,age,gender,marital_status,education,employment_status,occupation,income,has_health_insurance,insurance_type,utilities,shopping,healthcare,entertainment,school_fees
+Abas,ab@gmail.com,22,male,single,high_school,unemployed,None,20000.0,no,none,1000.0,1000.0,1000.0,1000.0,1000.0
+Mitchel Tech,mitchy@yahoo.com,47,male,married,phd,self_employed,Tutot,20000.0,yes,private,1000.0,1000.0,1000.0,1000.0,1000.0
+Mitchel Nkereuwem ,themitchglobal@gmail.com,35,male,married,masters,self_employed,Business analyst ,100000.0,yes,private,500.0,600.0,5000.0,500.0,280.0
+Bob Brown,alice@example.com,52,other,married,masters,employed,salesperson,116625.0,no,employer,6724.07,9517.58,4045.52,5553.97,2294.8
+Alice Johnson,charlie@example.com,66,other,widowed,bachelors,self_employed,salesperson,124400.66,no,none,1764.23,4107.33,4520.22,1357.6,8378.15
+Alice Johnson,john@example.com,19,other,divorced,bachelors,employed,teacher,90804.54,no,none,5187.72,6208.89,3151.59,5733.38,4507.41
+Alice Johnson,john@example.com,74,male,widowed,other,unemployed,doctor,46988.91,yes,employer,4975.12,1643.19,6748.34,3384.8,1536.46
+Bob Brown,alice@example.com,41,other,married,other,self_employed,salesperson,103278.52,yes,employer,6326.61,2648.48,6332.79,3976.15,1099.45
+Alice Johnson,jane@example.com,33,male,single,bachelors,employed,teacher,108649.92,yes,public,8486.19,3258.14,3567.49,4104.13,3162.13
+Bob Brown,charlie@example.com,39,male,single,high school,employed,engineer,52743.37,yes,employer,9071.81,6112.76,8964.01,3424.68,9700.65
+Charlie Davis,jane@example.com,39,female,single,phd,self_employed,teacher,60774.03,no,employer,4137.88,9817.55,5560.3,9553.05,7853.82
+Bob Brown,bob@example.com,37,female,single,high school,employed,doctor,113265.46,no,employer,9480.91,2032.88,8303.94,3854.37,3423.58
+Alice Johnson,alice@example.com,40,male,single,other,self_employed,manager,100580.13,no,public,7826.71,9888.3,6707.2,5945.51,3168.62
+Charlie Davis,charlie@example.com,53,female,married,other,self_employed,doctor,31861.25,no,public,4522.23,1350.31,4444.35,8889.92,8371.13
+Charlie Davis,bob@example.com,21,female,divorced,masters,unemployed,salesperson,131936.11,yes,private,1083.58,1120.21,3348.56,5715.1,6787.81
+Charlie Davis,john@example.com,72,other,divorced,phd,unemployed,teacher,82877.48,no,none,7044.25,2410.49,3801.28,8616.36,1551.82
+Charlie Davis,charlie@example.com,48,female,widowed,masters,employed,engineer,126016.14,no,public,3982.26,4552.57,8102.97,5656.4,1190.71
+Alice Johnson,john@example.com,26,male,widowed,other,employed,teacher,75900.08,no,employer,1987.62,4733.0,3650.43,7624.37,4515.82
+Jane Smith,alice@example.com,61,female,married,bachelors,employed,salesperson,46926.83,yes,employer,2026.66,8285.66,6163.31,5192.56,549.32
+Bob Brown,alice@example.com,26,male,single,phd,self_employed,salesperson,87274.37,yes,employer,1387.15,1182.38,1059.37,7890.0,9820.66
+Jane Smith,bob@example.com,36,female,married,masters,employed,engineer,97313.6,yes,private,7785.35,9302.83,8384.08,7312.04,2683.62
+Bob Brown,bob@example.com,22,female,married,bachelors,self_employed,manager,136677.89,no,private,1964.94,4926.92,8779.15,6323.73,4469.97
+Charlie Davis,jane@example.com,78,other,single,phd,unemployed,engineer,131708.88,no,private,5026.86,8256.07,5086.31,2682.31,3738.73
+Alice Johnson,bob@example.com,51,other,widowed,other,employed,doctor,120719.35,yes,private,8976.83,9999.59,3527.17,4893.83,6808.58
+Jane Smith,charlie@example.com,64,female,single,bachelors,employed,salesperson,20742.37,yes,none,7721.35,9916.38,9226.95,3682.72,5400.13
+John Doe,bob@example.com,43,male,divorced,masters,employed,teacher,42463.63,no,employer,9746.68,9813.67,9945.97,5196.11,278.4
+Bob Brown,bob@example.com,76,female,single,phd,unemployed,doctor,129523.93,no,none,3638.82,7533.02,5142.3,5451.76,6977.49
+Bob Brown,charlie@example.com,26,male,single,bachelors,self_employed,engineer,143605.39,yes,none,9132.5,8129.77,8293.67,3285.19,6247.2
+Jane Smith,charlie@example.com,59,female,widowed,bachelors,self_employed,teacher,47505.72,no,none,9917.67,1124.34,3917.64,6502.55,4979.9
+John Doe,charlie@example.com,63,male,married,masters,unemployed,teacher,122975.13,yes,public,5079.84,7638.92,6069.84,6007.78,2677.3
+John Doe,charlie@example.com,53,other,widowed,masters,unemployed,salesperson,83209.61,no,private,1321.91,2768.39,6973.82,9538.13,5623.97
+Bob Brown,jane@example.com,32,other,married,high school,unemployed,engineer,76103.58,yes,private,8759.69,9210.06,4170.53,1888.46,2078.61
+Jane Smith,charlie@example.com,55,female,widowed,bachelors,employed,teacher,78161.09,no,none,6844.56,8480.91,9210.91,1912.01,4770.61
+Charlie Davis,jane@example.com,34,other,widowed,phd,employed,doctor,109177.03,yes,employer,4155.78,3257.02,3523.24,2107.47,3056.3
+John Doe,alice@example.com,53,male,divorced,masters,unemployed,engineer,122359.76,yes,public,1278.87,4916.52,4417.01,9684.37,9373.66
+Alice Johnson,bob@example.com,71,female,single,high school,unemployed,salesperson,27358.43,yes,public,1108.58,5722.41,3587.62,6932.29,1618.93
+Alice Johnson,john@example.com,65,other,widowed,phd,employed,engineer,54423.49,no,public,9420.81,5758.89,7236.86,3468.37,470.65
+John Doe,charlie@example.com,54,other,widowed,bachelors,self_employed,engineer,111281.7,no,public,2168.54,8412.52,2081.18,6868.52,3502.01
+Charlie Davis,jane@example.com,42,male,married,phd,unemployed,teacher,129920.14,yes,employer,6797.47,8718.81,9615.29,9379.87,5644.44
+Bob Brown,john@example.com,34,female,married,other,unemployed,teacher,70837.6,no,public,4765.37,2451.54,1857.76,6300.22,5679.21
+Charlie Davis,alice@example.com,43,other,divorced,bachelors,self_employed,salesperson,143192.02,yes,public,4643.53,2104.29,6119.37,1572.04,5126.58
+Alice Johnson,alice@example.com,41,female,married,masters,self_employed,salesperson,141332.08,yes,private,9915.9,9488.3,1229.52,3126.91,7080.66
+Jane Smith,jane@example.com,45,female,single,other,employed,salesperson,145080.27,yes,private,8577.71,3409.65,2302.16,7504.88,1662.16
+John Doe,alice@example.com,52,other,married,other,employed,engineer,61962.62,yes,none,3968.44,9451.69,7565.68,9519.07,5257.43
+Alice Johnson,alice@example.com,18,male,widowed,bachelors,self_employed,engineer,92109.91,yes,none,1623.73,6734.2,6829.04,7013.17,2225.46
+John Doe,bob@example.com,77,other,divorced,phd,unemployed,doctor,122547.76,yes,public,1984.51,2301.05,4141.38,8639.28,8974.08
+Alice Johnson,john@example.com,76,male,widowed,masters,self_employed,salesperson,149788.12,yes,private,2702.3,5587.5,1147.04,7519.83,3568.14
+Alice Johnson,alice@example.com,31,other,married,bachelors,employed,engineer,36118.85,yes,employer,7461.51,5174.51,635.87,3896.91,3589.35
+Bob Brown,bob@example.com,47,male,divorced,high school,unemployed,salesperson,132796.78,no,public,9386.96,1352.51,9288.06,6468.13,3811.28
+Bob Brown,charlie@example.com,66,male,married,phd,employed,teacher,107269.82,no,private,2051.53,9103.99,8753.46,1856.71,537.63
+Alice Johnson,charlie@example.com,62,female,widowed,masters,self_employed,teacher,80318.29,yes,employer,2376.36,5441.66,8878.21,4899.25,7293.85
+Jane Smith,alice@example.com,33,female,married,other,employed,teacher,53500.74,no,public,5102.97,7101.3,4921.97,1509.04,6409.2
+Jane Smith,jane@example.com,50,other,widowed,bachelors,self_employed,engineer,139819.77,yes,none,3623.88,9325.83,2150.3,5145.3,5287.53
+Jane Smith,charlie@example.com,61,female,married,phd,employed,doctor,147779.6,no,public,4922.96,9662.03,7144.03,4443.07,2685.77
+John Doe,charlie@example.com,47,other,single,bachelors,self_employed,manager,109041.17,yes,public,8268.06,2184.45,4442.06,5707.03,9155.68
+Alice Johnson,bob@example.com,75,female,single,high school,unemployed,doctor,68080.87,yes,private,2046.17,9007.84,6120.87,6130.97,4852.42
+Alice Johnson,jane@example.com,24,female,widowed,other,employed,engineer,118136.5,no,private,7051.41,2037.42,8849.27,5899.2,5497.69
+Charlie Davis,charlie@example.com,28,female,divorced,other,employed,engineer,56917.47,no,none,1197.28,8964.81,3965.2,4439.59,2577.05
+Alice Johnson,john@example.com,19,male,widowed,masters,self_employed,doctor,79016.57,yes,private,9977.03,3582.0,574.85,8134.53,5489.53
+Bob Brown,bob@example.com,40,other,widowed,other,self_employed,teacher,113179.75,no,private,9923.83,8172.58,846.59,2674.45,1478.97
+Bob Brown,charlie@example.com,35,female,widowed,high school,employed,manager,84876.33,no,public,9276.9,7563.04,5061.26,2382.5,3134.35
+Jane Smith,alice@example.com,19,male,married,phd,unemployed,salesperson,113767.78,yes,none,4038.92,3647.45,8754.16,9019.81,3065.14
+Charlie Davis,charlie@example.com,78,male,married,bachelors,employed,manager,22077.43,yes,public,6041.3,4978.32,6004.64,5165.87,3450.87
+Alice Johnson,john@example.com,62,female,single,bachelors,employed,manager,95345.37,yes,employer,9340.67,5094.76,4718.54,5505.5,5422.53
+John Doe,alice@example.com,45,female,divorced,phd,self_employed,salesperson,42186.71,no,none,7560.55,1734.51,5212.58,4192.88,1541.89
+Bob Brown,charlie@example.com,52,other,widowed,other,employed,salesperson,38080.8,yes,none,4312.51,4930.37,8835.79,4642.68,9290.85
+Alice Johnson,charlie@example.com,56,other,divorced,masters,employed,teacher,116062.38,yes,employer,2667.93,6157.3,1203.02,9687.79,2931.47
+John Doe,alice@example.com,51,female,widowed,phd,unemployed,salesperson,57710.75,no,none,1780.38,4064.1,7326.61,5620.47,6005.41
+John Doe,john@example.com,66,male,single,other,unemployed,doctor,88253.63,no,private,9925.91,9675.19,2857.06,6011.85,1747.42
+Jane Smith,alice@example.com,22,female,married,phd,employed,doctor,45556.12,yes,employer,8517.59,4498.09,5832.77,3932.79,8061.03
+Alice Johnson,jane@example.com,77,female,single,other,self_employed,engineer,107899.01,yes,public,1373.69,6090.6,2887.21,5115.28,9668.6
+Alice Johnson,john@example.com,42,other,divorced,phd,self_employed,manager,90787.67,no,none,8954.18,3811.1,3998.46,3361.23,971.92
+Alice Johnson,alice@example.com,74,male,divorced,phd,employed,doctor,63613.63,yes,none,7458.22,5063.37,8997.74,8853.47,4581.87
+John Doe,alice@example.com,33,female,widowed,phd,self_employed,manager,39888.73,no,private,8091.38,2875.39,4185.34,2859.23,5475.69
+Jane Smith,alice@example.com,46,other,married,other,self_employed,teacher,124307.48,yes,none,3342.5,6483.27,2778.68,8699.03,171.42
+Alice Johnson,alice@example.com,72,male,single,other,employed,salesperson,85668.46,yes,public,7170.05,4172.15,8300.59,1627.81,6175.98
+Jane Smith,bob@example.com,71,female,widowed,other,unemployed,teacher,148535.49,yes,private,8826.83,5169.22,6130.06,2562.0,4768.29
+Jane Smith,alice@example.com,24,other,single,phd,self_employed,doctor,21254.79,no,public,3419.16,8624.61,7079.49,2475.26,764.8
+John Doe,john@example.com,37,male,divorced,high school,self_employed,teacher,32364.69,no,private,2083.74,5786.41,6606.71,5691.22,3593.7
+John Doe,charlie@example.com,28,male,divorced,high school,employed,teacher,109929.52,no,public,5755.19,9544.82,4527.29,4500.25,5718.88
+Alice Johnson,bob@example.com,26,other,divorced,high school,self_employed,doctor,33176.64,no,private,7031.79,3775.4,9676.41,3918.86,1773.98
+Bob Brown,bob@example.com,53,other,single,phd,unemployed,engineer,57077.26,yes,none,1188.27,3336.31,1681.73,7759.92,1201.35
+Charlie Davis,bob@example.com,77,female,widowed,phd,employed,salesperson,108150.9,no,employer,9134.45,4426.21,3347.08,3647.62,7874.67
+Alice Johnson,jane@example.com,20,male,single,other,unemployed,teacher,125406.73,no,none,4340.71,9530.07,2053.34,7229.53,5648.76
+Alice Johnson,charlie@example.com,66,other,widowed,high school,self_employed,salesperson,70130.63,no,public,9720.87,1896.66,2183.27,2854.11,6965.72
+Charlie Davis,alice@example.com,70,female,married,other,unemployed,salesperson,38584.49,yes,employer,5433.78,3898.88,814.66,5543.94,8923.1
+Alice Johnson,bob@example.com,47,female,single,bachelors,unemployed,salesperson,65986.47,no,employer,5345.7,1959.1,3945.91,3948.95,1905.35
+Bob Brown,john@example.com,46,other,divorced,other,self_employed,manager,33844.98,no,none,5326.35,9433.02,4417.65,7808.02,3451.43
+Bob Brown,bob@example.com,63,male,married,other,self_employed,engineer,99875.33,yes,employer,3442.68,5604.22,5209.43,6824.33,1923.33
+John Doe,charlie@example.com,23,female,widowed,high school,employed,engineer,66334.68,yes,private,4291.74,9940.82,1100.14,4776.9,3673.7
+Alice Johnson,alice@example.com,56,male,widowed,masters,self_employed,salesperson,126520.19,yes,private,6746.19,7809.12,6421.95,9711.24,3827.79
+Bob Brown,charlie@example.com,61,female,divorced,bachelors,unemployed,teacher,42917.89,no,employer,3079.38,5565.03,9673.71,8183.63,2021.66
+Charlie Davis,bob@example.com,54,female,single,other,unemployed,engineer,34181.84,yes,private,7663.57,1673.63,501.88,2941.34,4768.56
+Bob Brown,bob@example.com,45,female,divorced,phd,unemployed,salesperson,121941.22,no,employer,2884.32,5659.39,3869.54,8631.41,1071.48
+Alice Johnson,jane@example.com,40,male,single,phd,unemployed,doctor,25385.61,no,public,2222.29,3927.85,6879.56,6505.24,4304.19
+John Doe,bob@example.com,44,other,single,other,unemployed,manager,33573.82,yes,employer,7215.89,9353.21,3965.58,5545.71,8579.16
+Jane Smith,john@example.com,43,female,single,other,self_employed,teacher,28085.08,yes,none,1762.1,6193.72,6604.6,6106.76,1187.46
+John Doe,john@example.com,44,male,single,masters,unemployed,salesperson,96708.85,no,employer,3981.04,6980.82,2463.12,8746.09,6709.8
+Bob Brown,john@example.com,26,male,divorced,bachelors,unemployed,doctor,86650.6,no,employer,7899.18,6237.69,5985.61,4399.65,3406.79
+John Doe,charlie@example.com,72,male,married,bachelors,employed,salesperson,38920.5,yes,public,4379.4,9534.01,7568.49,1090.92,7377.07
+Alice Johnson,john@example.com,55,male,single,bachelors,employed,teacher,21147.69,yes,private,8622.67,6242.81,7527.57,4301.49,3616.58
+John Doe,john@example.com,25,other,single,phd,unemployed,engineer,87951.6,yes,private,4272.26,3632.74,2118.46,4981.7,636.47
+Jane Smith,bob@example.com,28,other,widowed,phd,self_employed,doctor,22922.28,yes,employer,1747.56,1176.02,4676.48,6607.02,4080.7
+Charlie Davis,alice@example.com,71,female,widowed,other,employed,engineer,68606.85,no,public,1030.31,1762.18,9700.0,5861.14,1255.18
+Charlie Davis,charlie@example.com,65,female,widowed,phd,unemployed,doctor,64298.13,yes,employer,9490.98,6533.58,1034.87,5397.77,2300.12
+Alice Johnson,bob@example.com,74,female,widowed,bachelors,self_employed,manager,97558.2,yes,public,1459.94,8579.77,9528.26,1381.99,6214.49
+Charlie Davis,jane@example.com,28,other,divorced,bachelors,unemployed,teacher,135201.93,yes,none,2093.45,8539.04,604.19,6602.36,8684.0
+Bob Brown,jane@example.com,72,female,married,high school,employed,teacher,131767.76,no,public,6028.7,1420.01,2055.06,7435.02,1108.94
+John Doe,bob@example.com,19,male,widowed,masters,self_employed,manager,136621.99,yes,public,1812.96,5685.24,5407.51,5803.41,3203.55
+Jane Smith,charlie@example.com,60,female,divorced,phd,self_employed,engineer,95357.43,yes,private,2848.35,5736.68,6614.6,1624.87,8070.74
+Alice Johnson,charlie@example.com,45,male,divorced,high school,unemployed,manager,79692.23,yes,public,8814.02,6177.05,8290.37,2967.6,334.21
+John Doe,alice@example.com,78,other,widowed,high school,unemployed,salesperson,53966.13,no,none,1457.19,3752.48,3792.29,8194.08,1010.82
+Jane Smith,john@example.com,42,male,single,high school,unemployed,manager,137180.0,yes,private,4247.78,7586.6,3999.84,1630.07,8096.27
+Bob Brown,jane@example.com,24,male,divorced,masters,employed,manager,141025.81,yes,none,9643.49,5269.36,7262.39,3273.02,123.04
+Charlie Davis,alice@example.com,68,other,widowed,bachelors,unemployed,engineer,133782.46,no,private,5532.93,6547.96,7497.97,1657.92,3558.88
+John Doe,bob@example.com,42,female,single,high school,employed,teacher,135044.37,no,public,5055.33,4162.07,8793.58,6849.97,5739.42
+Bob Brown,jane@example.com,78,other,single,bachelors,unemployed,salesperson,48365.17,no,private,6204.04,1499.62,9451.59,9999.05,2182.52
+John Doe,john@example.com,79,female,single,phd,employed,manager,84936.41,yes,employer,3095.57,3278.76,5387.0,7567.33,6095.88
+Bob Brown,bob@example.com,54,female,single,masters,unemployed,engineer,21323.1,yes,public,3925.3,3416.23,3628.08,7615.0,9459.6
+John Doe,charlie@example.com,62,male,widowed,other,self_employed,doctor,56765.07,no,public,4813.82,2257.73,7455.31,3776.23,7305.25
+Bob Brown,bob@example.com,46,male,divorced,masters,employed,doctor,20795.47,no,public,8479.85,2271.6,7138.47,3358.75,3526.35
+Alice Johnson,alice@example.com,72,female,single,bachelors,unemployed,doctor,115439.83,yes,public,7893.6,1104.89,7658.1,6759.98,5816.6
+Alice Johnson,bob@example.com,52,female,widowed,masters,self_employed,doctor,60218.11,yes,private,5638.16,7536.69,9129.38,1104.12,1290.08
+Jane Smith,alice@example.com,20,male,married,high school,self_employed,teacher,89021.76,no,private,2225.82,3363.61,435.88,8590.12,5522.0
+Alice Johnson,john@example.com,61,other,widowed,masters,employed,salesperson,62125.52,no,employer,9900.63,4113.28,8985.93,4971.22,9819.5
+John Doe,john@example.com,78,other,divorced,high school,employed,teacher,58953.59,yes,public,5149.64,4019.82,8147.98,4724.84,1999.63
+Bob Brown,alice@example.com,78,other,divorced,high school,employed,doctor,65481.73,no,public,1661.1,7424.28,335.83,7062.55,6909.73
+John Doe,bob@example.com,18,male,married,phd,self_employed,teacher,30797.2,yes,none,8184.04,2842.92,9972.72,4768.39,9476.71
+Charlie Davis,jane@example.com,29,other,married,phd,self_employed,engineer,81634.41,no,none,8956.53,2471.34,3199.59,3262.92,6238.95
+Bob Brown,jane@example.com,50,female,widowed,bachelors,unemployed,manager,45058.11,yes,none,5619.39,5116.4,1600.44,8061.72,3586.18
+Jane Smith,charlie@example.com,32,female,single,other,employed,teacher,58689.41,yes,public,3948.2,4136.81,5111.13,1596.16,4620.01
+Charlie Davis,john@example.com,22,female,married,bachelors,unemployed,manager,115843.0,no,employer,6860.33,4793.54,1746.37,6737.43,1819.42
+John Doe,alice@example.com,34,female,married,masters,unemployed,salesperson,113233.83,yes,employer,6713.6,4047.52,2818.46,3179.58,5938.35
+Bob Brown,alice@example.com,31,other,married,masters,employed,teacher,34966.76,yes,public,8958.8,6369.41,8628.83,4507.26,4549.01
+Charlie Davis,bob@example.com,20,other,married,masters,self_employed,manager,73028.23,no,public,4771.0,8351.63,4138.79,8864.87,2615.06
+John Doe,john@example.com,43,female,married,high school,employed,engineer,31916.19,no,none,9682.63,2704.21,9689.93,4826.21,4223.49
+Bob Brown,charlie@example.com,27,other,divorced,high school,self_employed,manager,106326.63,yes,private,1679.95,4454.23,5646.12,4062.14,6970.96
+Jane Smith,jane@example.com,79,other,divorced,phd,self_employed,manager,26320.96,no,none,3901.94,7789.15,4506.55,6904.62,5128.1
+Bob Brown,charlie@example.com,59,female,divorced,masters,unemployed,engineer,135060.17,yes,none,8102.29,8401.18,9406.85,8860.86,6835.02
+Charlie Davis,charlie@example.com,29,female,single,other,employed,doctor,149423.31,yes,none,5903.66,6576.74,5467.37,5607.25,6276.21
+Bob Brown,john@example.com,56,male,divorced,masters,unemployed,engineer,36670.81,yes,employer,6446.44,6128.4,9423.03,2189.08,8059.29
+Bob Brown,john@example.com,27,male,single,high school,self_employed,salesperson,22814.03,yes,none,5203.81,1909.72,3464.28,2178.48,5452.57
+Jane Smith,jane@example.com,41,female,single,phd,self_employed,teacher,97878.52,yes,public,4869.59,1474.43,761.59,7563.7,4992.08
+Alice Johnson,jane@example.com,41,male,married,other,employed,manager,73982.94,no,none,9391.43,5146.54,6690.13,8506.39,5866.55
+Jane Smith,alice@example.com,61,male,divorced,high school,self_employed,teacher,76743.76,no,public,1123.09,5737.0,9910.91,3430.2,5544.86
+Jane Smith,jane@example.com,71,female,widowed,phd,unemployed,salesperson,121770.26,no,private,8052.73,7230.08,4842.9,9491.79,7871.55
+Charlie Davis,alice@example.com,60,female,widowed,high school,self_employed,salesperson,92220.14,yes,none,1126.63,3992.3,7527.77,1434.13,5916.89
+John Doe,john@example.com,78,female,single,high school,employed,salesperson,126074.16,no,employer,6001.29,3167.89,1301.07,2891.49,4234.58
+Charlie Davis,john@example.com,61,male,divorced,phd,employed,engineer,80066.38,yes,none,5614.55,5907.69,9862.09,7592.5,2915.77
+Alice Johnson,bob@example.com,61,other,married,high school,self_employed,engineer,30428.42,yes,employer,2564.25,9850.33,5297.8,1237.0,1477.01
+Bob Brown,jane@example.com,37,female,widowed,phd,unemployed,manager,96852.21,no,private,1245.99,9409.92,9665.71,5393.65,8225.79
+Charlie Davis,john@example.com,73,other,married,high school,employed,teacher,27973.56,no,private,8416.83,9496.19,5486.11,6131.64,553.44
+Alice Johnson,jane@example.com,69,male,widowed,high school,unemployed,teacher,34340.99,no,public,4343.87,6477.53,8103.92,3156.06,8479.67
+John Doe,bob@example.com,34,female,divorced,bachelors,employed,doctor,62392.32,yes,private,2708.6,1938.95,7386.06,3891.46,58.27
+Charlie Davis,john@example.com,64,male,married,other,employed,teacher,139544.32,yes,employer,9778.99,1525.11,2714.26,6002.96,580.95
+Alice Johnson,jane@example.com,48,male,divorced,phd,employed,doctor,35050.31,no,none,2924.54,3091.18,6868.3,3175.19,8833.62
+Alice Johnson,john@example.com,59,male,divorced,phd,self_employed,manager,71115.48,yes,employer,1421.88,6890.84,377.3,7576.42,2529.46
+Bob Brown,jane@example.com,45,male,divorced,phd,unemployed,teacher,114017.84,yes,public,4900.59,7977.16,7994.38,2999.13,8713.8
+Charlie Davis,jane@example.com,64,male,widowed,high school,self_employed,salesperson,43478.68,yes,none,5867.32,1152.18,7985.98,6081.49,8641.7
+Alice Johnson,bob@example.com,36,male,married,masters,self_employed,manager,27641.98,yes,employer,7960.74,6704.75,5338.24,7385.72,6520.1
+Charlie Davis,bob@example.com,66,male,widowed,other,unemployed,engineer,69536.97,no,private,2419.7,6083.9,8410.87,9395.43,7860.95
+Jane Smith,jane@example.com,40,other,single,high school,employed,engineer,112610.16,no,private,8238.69,5371.77,1272.4,1147.51,5708.59
+John Doe,charlie@example.com,35,male,widowed,other,self_employed,teacher,83727.72,yes,public,5382.12,3786.54,2589.32,6610.13,9687.74
+Alice Johnson,charlie@example.com,19,female,married,high school,unemployed,engineer,97153.72,no,employer,3981.7,3729.75,8206.79,8584.96,5461.73
+Charlie Davis,alice@example.com,29,other,widowed,masters,self_employed,teacher,130167.48,no,private,7672.15,8342.27,7638.15,8508.25,7414.34
+Bob Brown,alice@example.com,21,female,divorced,bachelors,unemployed,manager,85537.06,yes,none,6031.39,8962.25,9733.39,5486.58,1808.99
+John Doe,jane@example.com,63,other,divorced,phd,employed,engineer,76049.38,no,private,1349.87,2021.36,7383.77,4851.6,6408.18
+Charlie Davis,charlie@example.com,49,female,married,masters,unemployed,doctor,25205.5,yes,none,7905.05,7816.6,390.3,5043.8,392.46
+Jane Smith,alice@example.com,77,other,divorced,bachelors,employed,teacher,86150.17,no,none,7954.37,5410.13,633.57,1428.8,7453.35
+Charlie Davis,john@example.com,61,other,divorced,phd,self_employed,doctor,87829.83,yes,private,6479.84,4207.05,7943.55,3638.19,7130.0
+Alice Johnson,john@example.com,71,male,widowed,masters,self_employed,salesperson,50817.22,no,employer,6598.39,1273.5,4977.0,6813.87,8392.19
+Jane Smith,john@example.com,68,male,married,other,self_employed,engineer,50945.22,yes,private,9919.27,7859.27,1502.51,4344.04,1400.35
+Jane Smith,jane@example.com,33,female,widowed,high school,unemployed,teacher,120370.8,no,employer,4140.32,5430.95,1585.36,8165.21,5951.6
+Jane Smith,charlie@example.com,49,female,widowed,bachelors,self_employed,salesperson,69666.56,yes,employer,5277.81,6773.32,3452.18,6469.81,7036.72
+Bob Brown,john@example.com,32,other,divorced,high school,unemployed,engineer,112558.43,yes,none,5889.54,4781.76,2991.39,7643.99,2519.58
+Jane Smith,bob@example.com,41,male,single,bachelors,self_employed,manager,134260.2,no,none,2640.28,6601.42,354.47,6433.83,6936.81
+Bob Brown,bob@example.com,36,other,single,high school,self_employed,doctor,115865.69,yes,none,1113.57,1650.66,6487.94,2593.67,6442.18
+Charlie Davis,charlie@example.com,26,male,married,masters,self_employed,salesperson,47578.7,yes,private,5798.22,2978.11,1917.13,7098.74,1297.81
+Jane Smith,bob@example.com,62,male,divorced,phd,unemployed,manager,48853.16,yes,private,1868.74,8195.02,8445.29,3121.23,7445.55
+John Doe,john@example.com,27,other,married,masters,employed,engineer,90650.15,yes,none,3676.42,2297.5,2814.59,6667.34,4753.47
+Jane Smith,alice@example.com,63,female,single,phd,unemployed,doctor,56024.66,no,none,9652.6,2420.88,5450.98,9609.69,5495.29
+Jane Smith,alice@example.com,38,other,divorced,masters,unemployed,manager,30998.25,yes,private,1488.03,5958.81,4601.37,6536.05,7625.0
+John Doe,john@example.com,60,other,divorced,phd,employed,teacher,50787.74,no,public,8393.38,4568.61,5245.77,7858.29,1078.88
+John Doe,alice@example.com,57,female,widowed,high school,employed,doctor,127331.43,no,public,9792.14,9932.26,6287.74,6807.68,1163.67
+Bob Brown,alice@example.com,39,other,divorced,masters,employed,teacher,117184.05,no,public,9490.18,1381.76,8989.66,2689.53,9864.24
+Charlie Davis,charlie@example.com,25,female,single,phd,self_employed,salesperson,77353.21,yes,none,4586.97,3712.27,550.63,4502.81,4918.09
+Bob Brown,bob@example.com,51,other,widowed,other,employed,teacher,138755.42,yes,public,2803.94,6322.98,1369.44,2490.99,2492.81
+Alice Johnson,john@example.com,34,male,widowed,bachelors,self_employed,salesperson,41351.07,no,public,1297.43,4387.35,1607.67,1220.06,2638.25
+Bob Brown,alice@example.com,43,female,married,masters,employed,doctor,79772.35,yes,employer,7661.84,8939.22,5762.39,1265.55,3723.07
+Charlie Davis,jane@example.com,48,other,widowed,phd,employed,manager,72675.34,yes,employer,7550.77,5551.09,5444.57,5549.83,7389.06
+Alice Johnson,bob@example.com,80,other,divorced,masters,employed,engineer,98950.36,no,employer,3540.65,7110.23,5343.83,3160.93,3353.97
+John Doe,alice@example.com,80,male,single,masters,employed,teacher,51071.92,no,none,8378.42,6405.07,5579.9,2950.26,2529.36
+Bob Brown,bob@example.com,58,other,single,bachelors,unemployed,engineer,21477.93,no,public,8338.51,6130.34,6834.07,1857.33,7188.24
+John Doe,bob@example.com,67,female,divorced,phd,unemployed,manager,38281.99,no,employer,3462.58,6867.1,2668.98,5362.81,7942.65
+Charlie Davis,jane@example.com,55,female,single,high school,employed,engineer,60951.6,yes,none,9275.43,3449.51,5740.3,5032.96,2987.63
+Alice Johnson,john@example.com,65,other,married,phd,self_employed,teacher,126056.23,yes,employer,9759.28,2950.56,3948.83,3400.33,3480.45
+John Doe,charlie@example.com,38,male,single,phd,self_employed,engineer,55122.3,yes,public,1110.2,3641.18,2936.66,9188.77,7725.2
+Alice Johnson,charlie@example.com,30,female,divorced,other,unemployed,doctor,57640.99,no,employer,1286.64,2795.79,7612.83,6191.84,3443.04
+John Doe,charlie@example.com,55,male,widowed,high school,self_employed,salesperson,102978.4,no,public,7592.78,5474.16,4423.05,2292.24,1998.12
+John Doe,bob@example.com,44,male,married,bachelors,self_employed,salesperson,31301.22,no,private,8912.21,9469.65,4474.98,7641.03,5596.09
+Charlie Davis,jane@example.com,18,male,widowed,other,self_employed,teacher,91930.71,yes,employer,9053.34,6631.76,6279.59,8559.45,4205.0
+Alice Johnson,john@example.com,66,other,married,high school,unemployed,salesperson,22269.49,no,none,2025.8,5930.74,3499.65,2881.66,534.28
+John Doe,john@example.com,49,female,single,bachelors,self_employed,manager,43195.63,yes,none,8325.86,7945.31,9672.59,6069.73,1071.28
+Jane Smith,charlie@example.com,70,male,single,phd,unemployed,engineer,121741.23,yes,employer,7821.83,7614.98,3427.53,5815.16,9124.59
+Bob Brown,bob@example.com,35,other,single,masters,self_employed,doctor,41922.26,no,none,5400.86,6864.25,9001.25,1583.44,515.82
+Bob Brown,jane@example.com,61,male,widowed,phd,unemployed,manager,45074.88,no,public,8862.34,9849.73,718.96,9194.48,7879.4
+Bob Brown,alice@example.com,28,female,widowed,bachelors,unemployed,teacher,68692.41,no,none,8438.48,2100.58,2056.97,9667.04,9160.07
+Charlie Davis,charlie@example.com,38,other,married,other,unemployed,engineer,109673.93,yes,employer,7115.27,9706.33,8001.13,4948.78,4491.07
+Bob Brown,bob@example.com,62,male,married,bachelors,self_employed,manager,126225.99,no,public,9799.24,5286.21,3155.86,1763.65,4608.89
+Alice Johnson,charlie@example.com,24,other,single,high school,unemployed,doctor,101377.47,yes,public,9122.22,6286.69,9335.13,4581.18,9678.09
+Charlie Davis,charlie@example.com,25,female,widowed,phd,self_employed,engineer,139120.71,yes,employer,3886.35,4500.9,3722.82,2777.8,2209.87
+Bob Brown,jane@example.com,36,female,single,phd,self_employed,salesperson,115915.68,yes,none,5744.76,9764.16,9648.82,7037.05,7775.94
+Bob Brown,bob@example.com,45,female,divorced,phd,self_employed,engineer,82946.03,no,public,9780.51,3439.73,5719.25,4800.3,2328.77
+Jane Smith,alice@example.com,71,female,married,masters,employed,teacher,44610.72,no,public,5813.45,1330.53,1299.79,1430.2,6023.29
+Charlie Davis,jane@example.com,74,female,widowed,phd,unemployed,doctor,134365.31,no,private,9453.36,8773.84,8988.52,6129.29,8366.89
+Charlie Davis,john@example.com,44,female,single,masters,unemployed,salesperson,38771.37,yes,public,9340.78,8202.61,9439.44,1731.83,7608.89
+Alice Johnson,alice@example.com,63,male,widowed,masters,self_employed,manager,124238.54,no,private,6821.67,6344.33,598.26,8640.84,5998.47
+John Doe,alice@example.com,63,other,widowed,phd,employed,salesperson,28709.14,no,employer,1756.14,1956.53,8790.71,4260.51,4003.15
+Charlie Davis,alice@example.com,38,other,married,bachelors,self_employed,salesperson,128972.7,no,public,4386.16,5971.65,2941.48,3319.93,3404.0
+John Doe,john@example.com,65,female,married,phd,employed,doctor,38171.06,yes,none,3562.93,7224.85,9666.35,4979.27,8309.6
+Charlie Davis,charlie@example.com,61,female,single,high school,employed,manager,53723.59,yes,public,4500.05,1531.62,4430.64,9861.79,7454.38
+Charlie Davis,john@example.com,40,female,single,high school,unemployed,salesperson,27567.66,yes,employer,6354.34,4734.81,573.82,7973.0,7664.28
+Charlie Davis,charlie@example.com,58,female,widowed,other,employed,doctor,129829.25,yes,public,6361.77,6415.77,271.64,7797.72,6244.26
+Bob Brown,bob@example.com,58,female,divorced,phd,unemployed,engineer,66822.31,no,public,3394.03,7462.24,4643.86,3896.87,7753.66
+John Doe,bob@example.com,56,other,single,masters,employed,manager,78613.53,yes,private,8432.73,3217.41,6152.37,2374.04,266.54
+Jane Smith,jane@example.com,34,male,divorced,masters,unemployed,salesperson,96435.53,no,public,5990.67,2064.93,6578.76,2178.0,2382.11
+Jane Smith,john@example.com,43,other,single,phd,unemployed,salesperson,121356.01,yes,none,4398.23,6651.44,4457.04,4368.55,3206.48
+Jane Smith,john@example.com,19,other,single,high school,employed,doctor,147085.93,yes,public,2114.47,7946.78,4278.35,8029.63,2071.99
+Alice Johnson,charlie@example.com,73,male,married,masters,unemployed,teacher,88129.84,no,employer,5111.74,8785.22,2073.07,6044.36,5807.65
+Jane Smith,bob@example.com,69,other,divorced,phd,unemployed,engineer,45109.52,no,employer,8980.16,8838.44,4040.92,7901.41,7483.74
+Bob Brown,john@example.com,57,male,widowed,high school,self_employed,doctor,77857.77,yes,employer,1135.39,6267.11,4465.53,8673.07,3521.23
+Bob Brown,bob@example.com,28,male,single,masters,self_employed,teacher,68354.12,no,public,2840.9,7318.93,4724.9,3346.55,7252.96
+Bob Brown,alice@example.com,71,female,widowed,high school,unemployed,salesperson,35862.5,no,private,5064.15,8754.0,4662.83,8124.19,3600.49
+John Doe,bob@example.com,78,female,widowed,bachelors,self_employed,salesperson,70533.72,yes,private,8575.85,6574.26,2206.4,8772.14,1652.93
+Alice Johnson,alice@example.com,40,other,divorced,other,self_employed,doctor,73651.76,yes,employer,1704.92,8688.69,8424.65,4181.69,8984.54
+Jane Smith,john@example.com,78,other,single,bachelors,self_employed,teacher,143723.86,no,public,4255.4,8433.57,5390.43,9036.35,2295.95
+Alice Johnson,alice@example.com,49,other,divorced,high school,employed,manager,72375.18,no,none,6648.67,6379.6,9754.07,9791.18,2652.98
+Bob Brown,bob@example.com,36,male,single,masters,self_employed,engineer,85268.31,no,private,8808.28,3037.22,7063.51,9750.05,101.4
+Jane Smith,charlie@example.com,79,male,widowed,high school,unemployed,salesperson,71001.16,no,none,6023.32,2968.93,4746.81,4988.98,8034.3
+Bob Brown,jane@example.com,41,female,divorced,phd,self_employed,manager,56477.59,no,none,6589.02,7319.4,2777.77,4851.51,6605.3
+Jane Smith,jane@example.com,36,other,married,bachelors,employed,manager,38559.03,yes,employer,3307.92,6070.67,9687.91,9910.02,7455.75
+Bob Brown,john@example.com,66,other,single,bachelors,unemployed,salesperson,52800.39,yes,employer,4146.77,6042.49,6391.94,7342.21,4738.27
+Charlie Davis,charlie@example.com,49,male,divorced,masters,self_employed,teacher,121256.14,no,private,3636.41,9375.02,522.63,8626.21,9079.84
+Alice Johnson,john@example.com,76,other,single,phd,self_employed,doctor,105898.66,no,none,2830.71,3188.47,7812.97,4663.8,454.42
+Alice Johnson,alice@example.com,40,male,divorced,masters,self_employed,manager,35582.06,no,employer,3863.1,3283.79,1822.14,2303.33,4859.66
+Jane Smith,charlie@example.com,74,other,single,other,self_employed,teacher,51664.35,yes,public,3423.27,8287.45,9322.62,3485.97,8911.79
+Charlie Davis,jane@example.com,57,male,widowed,high school,employed,salesperson,83313.71,yes,none,8033.14,8120.12,1717.29,8336.84,3584.34
+John Doe,bob@example.com,63,female,married,masters,employed,salesperson,26492.12,yes,none,4392.6,6124.55,4118.45,5292.44,4789.98
+Charlie Davis,jane@example.com,79,other,widowed,other,self_employed,salesperson,69193.87,yes,private,1701.64,2751.63,7194.03,1848.84,4951.9
+Alice Johnson,alice@example.com,43,male,married,other,unemployed,engineer,135424.6,yes,employer,8750.8,8639.11,741.37,9756.05,4704.9
+Bob Brown,john@example.com,36,other,married,masters,self_employed,doctor,35575.74,no,none,3874.04,2689.36,7365.25,1417.37,766.61
+Alice Johnson,jane@example.com,27,female,divorced,masters,self_employed,manager,73407.17,yes,employer,6054.89,6099.42,9110.61,1465.9,9715.1
+Jane Smith,bob@example.com,44,other,divorced,other,self_employed,manager,53146.16,yes,public,8195.25,5867.6,6017.57,4071.06,3833.18
+John Doe,jane@example.com,59,male,divorced,bachelors,unemployed,doctor,53861.8,no,public,8564.33,3719.52,368.94,7173.48,9923.9
+Charlie Davis,john@example.com,69,other,single,bachelors,employed,engineer,122789.95,no,private,2015.26,5279.74,2316.76,7455.48,4409.28
+Jane Smith,jane@example.com,33,other,single,phd,employed,manager,63603.24,no,private,9836.09,7903.13,1970.21,7963.48,1356.59
+Charlie Davis,jane@example.com,62,other,divorced,high school,employed,engineer,120839.26,yes,none,8773.86,4020.93,6351.9,7909.36,3160.58
+Charlie Davis,john@example.com,33,other,divorced,masters,employed,salesperson,37741.3,yes,public,5420.51,6868.39,526.14,2731.0,4711.95
+Jane Smith,bob@example.com,22,female,married,bachelors,self_employed,doctor,34860.97,yes,private,5112.35,8449.6,6668.82,5558.44,5910.78
+Bob Brown,jane@example.com,79,female,widowed,high school,employed,salesperson,32359.53,yes,private,8063.61,1594.01,2646.45,4527.16,1724.61
+Bob Brown,alice@example.com,45,other,widowed,high school,unemployed,manager,144641.78,no,public,2723.27,6815.61,5793.45,7265.46,4650.77
+John Doe,alice@example.com,58,male,divorced,high school,employed,salesperson,128390.41,no,employer,4624.66,3116.69,6827.15,1156.99,8697.31
+Jane Smith,alice@example.com,66,other,married,other,unemployed,engineer,78326.58,yes,public,7848.19,5030.72,3207.27,5001.74,849.23
+Alice Johnson,alice@example.com,79,male,married,other,self_employed,manager,72610.68,yes,none,8815.51,6278.24,6550.66,4480.62,7782.44
+Bob Brown,alice@example.com,58,female,divorced,high school,self_employed,teacher,40751.71,no,private,5259.18,3874.18,6129.8,9074.57,9019.25
+Bob Brown,john@example.com,40,male,married,high school,self_employed,engineer,118528.58,yes,private,3108.85,5662.39,4771.87,8356.13,6878.85
+Alice Johnson,bob@example.com,55,male,married,high school,self_employed,engineer,90983.82,no,public,4138.7,7818.2,8990.39,7017.27,9555.11
+Alice Johnson,charlie@example.com,50,male,married,other,unemployed,teacher,86089.69,no,none,2827.68,9078.84,8207.09,2696.1,3311.73
+John Doe,jane@example.com,36,female,married,bachelors,employed,doctor,83511.11,no,employer,4779.88,8962.6,3222.76,9706.58,1801.5
+Jane Smith,john@example.com,54,female,married,phd,unemployed,salesperson,23432.05,yes,employer,1949.78,7465.53,6742.42,5196.14,2499.59
+Charlie Davis,alice@example.com,71,male,divorced,high school,self_employed,doctor,120610.36,no,none,8090.43,3036.16,8490.63,6630.71,3274.52
+Bob Brown,charlie@example.com,18,other,single,other,unemployed,salesperson,35778.02,yes,public,2374.12,7423.42,7696.4,2465.52,9991.07
+John Doe,john@example.com,60,male,married,other,unemployed,manager,59435.57,yes,employer,5491.87,5769.74,641.73,8628.81,3457.38
+John Doe,jane@example.com,51,other,divorced,masters,self_employed,salesperson,28381.42,no,private,1964.13,8962.38,2104.14,1413.8,1179.94
+Alice Johnson,jane@example.com,61,other,widowed,bachelors,employed,teacher,97024.56,no,employer,3428.24,5400.06,7447.6,1247.72,8173.66
+Bob Brown,jane@example.com,21,other,single,bachelors,employed,salesperson,89908.99,yes,none,5487.3,2513.91,8455.08,1335.76,5975.69
+John Doe,jane@example.com,29,female,divorced,masters,unemployed,engineer,122306.22,yes,public,4130.44,9127.4,352.55,4095.5,9602.35
+Alice Johnson,john@example.com,69,male,divorced,masters,employed,teacher,89981.52,no,employer,6010.79,9388.58,2682.14,4557.21,6097.5
+Jane Smith,charlie@example.com,47,female,widowed,other,employed,engineer,58169.01,yes,public,3088.1,5407.94,4450.78,7088.97,9800.05
+Alice Johnson,alice@example.com,31,male,single,masters,self_employed,salesperson,54104.98,yes,none,8959.83,9000.28,5976.27,4084.01,6997.14
+Charlie Davis,bob@example.com,53,male,married,masters,self_employed,doctor,32319.68,yes,public,2577.42,2127.42,7806.9,1448.58,2820.43
+Charlie Davis,charlie@example.com,37,other,widowed,high school,employed,manager,143206.74,no,private,3439.69,5587.32,9343.43,3906.15,4223.99
+Charlie Davis,jane@example.com,18,male,single,phd,unemployed,salesperson,119415.27,yes,employer,4092.42,9817.83,6632.21,9763.65,6152.0
+John Doe,jane@example.com,37,other,divorced,bachelors,self_employed,doctor,89732.13,yes,public,2609.07,3410.05,3910.5,2982.57,9533.11
+Charlie Davis,john@example.com,58,male,divorced,high school,unemployed,manager,120466.15,yes,private,3324.66,7443.41,2124.06,5091.16,9792.83
+Jane Smith,jane@example.com,30,female,single,other,employed,salesperson,113660.67,yes,employer,6962.21,2642.37,3744.46,1688.73,4877.04
+John Doe,john@example.com,28,male,married,bachelors,self_employed,doctor,107523.15,yes,private,4161.03,1066.61,6428.61,4787.31,4126.11
+Jane Smith,bob@example.com,19,female,widowed,high school,employed,doctor,109726.68,yes,private,2365.27,1169.59,5854.01,3688.45,2056.8
+Alice Johnson,john@example.com,20,other,widowed,high school,employed,salesperson,118536.75,no,private,4456.57,8436.58,5954.65,5943.72,4801.23
+Jane Smith,charlie@example.com,43,other,single,phd,employed,doctor,68694.9,yes,public,4635.36,9991.69,6947.31,8799.84,9367.81
+Alice Johnson,alice@example.com,33,female,married,other,self_employed,manager,76168.73,yes,public,9878.9,8634.46,8768.13,1094.01,2766.73
+Jane Smith,john@example.com,39,male,married,other,unemployed,manager,141852.46,yes,none,1831.52,7680.86,6288.6,3569.7,9923.68
+Charlie Davis,charlie@example.com,46,male,single,masters,self_employed,doctor,97507.19,no,none,2802.66,4767.52,8795.47,8367.65,6411.76
+Charlie Davis,charlie@example.com,19,other,divorced,other,unemployed,engineer,106313.72,no,public,9413.95,4683.65,5106.72,7703.94,8229.86
+John Doe,charlie@example.com,22,male,divorced,bachelors,unemployed,manager,140756.31,no,employer,5535.49,6852.64,875.88,8336.14,4243.59
+Bob Brown,alice@example.com,62,male,divorced,other,self_employed,doctor,35969.74,no,employer,3931.41,7645.35,618.53,7650.45,1177.6
+John Doe,alice@example.com,43,male,married,bachelors,employed,manager,95366.17,no,none,7339.16,5160.43,4260.26,4389.92,369.98
+Bob Brown,john@example.com,55,other,widowed,high school,self_employed,doctor,48443.64,yes,private,2972.24,8185.21,3038.71,6978.26,6629.42
+Alice Johnson,charlie@example.com,79,female,single,bachelors,self_employed,teacher,104152.41,no,public,5816.99,8712.08,8647.34,4615.59,944.47
+Alice Johnson,jane@example.com,18,female,widowed,other,self_employed,teacher,26898.54,yes,none,5153.13,8612.01,1691.19,8087.86,9047.95
+John Doe,jane@example.com,38,male,divorced,phd,self_employed,salesperson,134168.77,yes,public,9903.99,6749.76,6706.91,9605.0,5731.09
+Jane Smith,charlie@example.com,55,other,divorced,masters,self_employed,manager,73678.16,no,employer,4571.7,3327.16,6831.89,9790.09,9675.31
+Bob Brown,bob@example.com,23,male,divorced,phd,unemployed,engineer,128696.5,no,employer,1082.38,2506.41,562.39,9637.27,5785.27
+Alice Johnson,jane@example.com,41,female,single,high school,unemployed,manager,142515.83,no,private,8697.72,4872.11,9944.41,7081.45,1813.9
+Jane Smith,john@example.com,43,other,single,phd,self_employed,engineer,137324.83,yes,public,5866.84,8909.8,9151.05,8757.5,123.29
+John Doe,jane@example.com,29,female,married,other,self_employed,teacher,77266.5,no,private,2741.25,6023.78,301.07,6397.47,4589.28
+Alice Johnson,jane@example.com,56,male,divorced,phd,employed,doctor,55571.86,no,none,1113.6,5090.07,4289.26,8649.76,2780.43
+Alice Johnson,john@example.com,64,female,married,phd,unemployed,doctor,93397.34,no,none,5171.58,1576.82,423.07,4509.37,5166.62
+Jane Smith,charlie@example.com,28,male,divorced,high school,unemployed,teacher,62347.32,yes,employer,7552.28,3825.48,2843.53,5065.07,8755.33
+Charlie Davis,john@example.com,25,other,divorced,high school,unemployed,manager,102886.63,yes,none,8493.73,6699.32,1525.4,9912.48,1060.22
+Alice Johnson,alice@example.com,35,female,married,phd,self_employed,salesperson,36705.91,no,none,7410.22,4327.71,8692.71,3371.95,6607.17
+Bob Brown,jane@example.com,18,male,widowed,high school,employed,teacher,64971.39,no,employer,2890.22,7260.33,2613.03,7593.45,5333.5
+John Doe,jane@example.com,58,female,widowed,bachelors,unemployed,teacher,56936.95,no,private,2888.59,4175.74,9887.5,6479.59,2080.91
+Bob Brown,charlie@example.com,27,other,widowed,bachelors,unemployed,teacher,56328.8,no,public,4488.85,1492.22,3185.73,1009.73,7658.06
+Bob Brown,john@example.com,78,male,widowed,other,employed,engineer,98266.99,no,employer,2004.8,5980.54,2162.22,6051.13,5717.02
+Alice Johnson,john@example.com,58,female,married,masters,self_employed,doctor,129286.35,no,private,3904.17,8706.25,9354.63,4077.57,7349.89
+John Doe,alice@example.com,29,female,divorced,masters,unemployed,salesperson,142073.46,no,public,2824.45,2427.54,1881.92,1417.5,7859.38
+Bob Brown,jane@example.com,41,other,single,other,unemployed,doctor,65719.24,yes,private,6905.13,5955.3,3375.18,3723.93,7307.0
+Jane Smith,bob@example.com,56,other,widowed,high school,self_employed,teacher,124878.19,yes,none,5008.69,7997.69,7734.21,3260.62,4399.8
+Charlie Davis,alice@example.com,29,female,married,phd,self_employed,salesperson,103659.45,yes,private,9952.58,5619.61,5135.02,6244.99,2314.0
+Charlie Davis,charlie@example.com,46,female,single,phd,self_employed,manager,65329.13,no,none,4134.24,6020.11,1403.53,7452.96,4933.73
+Bob Brown,charlie@example.com,45,male,single,bachelors,employed,doctor,89840.76,no,none,5231.55,9985.72,4648.37,5520.34,8354.54
+Alice Johnson,bob@example.com,72,male,widowed,high school,self_employed,salesperson,60968.73,no,public,7325.82,8884.68,7153.68,3291.07,8942.74
+John Doe,charlie@example.com,33,other,widowed,phd,self_employed,manager,30673.45,no,public,4491.2,5967.56,3770.49,5727.94,5947.47
+Charlie Davis,charlie@example.com,55,female,single,bachelors,employed,engineer,148307.58,no,employer,6898.4,3120.68,4749.71,2104.69,5779.71
+Bob Brown,john@example.com,41,male,widowed,masters,employed,engineer,145962.75,no,private,1973.5,1743.82,3467.21,3341.7,7122.5
+John Doe,charlie@example.com,41,male,single,masters,employed,salesperson,143440.05,yes,employer,5913.46,9899.52,8853.31,9601.34,7645.76
+Jane Smith,charlie@example.com,33,male,single,bachelors,employed,doctor,102831.23,yes,employer,8785.27,3138.29,2369.3,5527.19,2780.83
+Bob Brown,jane@example.com,41,female,single,masters,self_employed,doctor,49827.31,yes,public,6580.89,5897.08,6158.96,2338.76,5197.63
+Alice Johnson,charlie@example.com,53,female,divorced,other,unemployed,salesperson,76829.52,no,public,7220.08,6467.3,5019.51,5665.6,8347.4
+Alice Johnson,john@example.com,75,female,divorced,bachelors,self_employed,manager,95487.61,yes,private,2001.3,3355.85,9915.71,7365.34,7870.79
+Alice Johnson,john@example.com,53,other,widowed,phd,employed,salesperson,119633.71,yes,none,9615.03,1474.85,3663.48,6759.48,1633.66
+Charlie Davis,jane@example.com,72,other,divorced,bachelors,employed,engineer,53901.66,no,employer,5942.67,8377.15,5500.81,2650.17,7142.58
+John Doe,jane@example.com,76,other,married,bachelors,self_employed,manager,39478.68,yes,private,6648.96,9687.2,5777.74,7483.32,9462.51
+Bob Brown,john@example.com,38,female,divorced,high school,self_employed,teacher,50952.85,no,none,8302.82,8035.94,1437.48,2554.62,8458.14
+Bob Brown,alice@example.com,69,male,widowed,phd,self_employed,doctor,44229.73,no,none,3073.18,7374.41,3426.32,2634.96,4467.95
+Jane Smith,alice@example.com,68,female,divorced,high school,self_employed,teacher,50737.83,no,public,7356.62,3933.28,5540.42,1924.06,6120.85
+John Doe,charlie@example.com,28,other,married,masters,self_employed,salesperson,89298.03,no,employer,7997.53,2083.44,1143.48,8424.95,335.2
+John Doe,alice@example.com,57,male,married,phd,self_employed,salesperson,75280.35,no,employer,8555.1,8394.69,8215.3,1322.66,5042.06
+Bob Brown,alice@example.com,49,other,single,bachelors,employed,salesperson,43039.09,no,public,1587.65,9666.5,5104.61,3418.91,6937.69
+Charlie Davis,jane@example.com,42,female,married,other,self_employed,salesperson,81955.37,no,private,3740.21,1564.4,2678.82,9358.13,6604.76
+Charlie Davis,charlie@example.com,59,other,widowed,high school,unemployed,engineer,39695.79,no,employer,9642.04,9440.45,4421.61,3265.18,8460.48
+Alice Johnson,alice@example.com,33,other,married,bachelors,self_employed,doctor,87515.51,yes,private,8514.37,6656.93,4580.03,9553.02,5366.24
+Charlie Davis,bob@example.com,69,male,divorced,high school,unemployed,manager,95523.19,no,public,4765.22,7424.01,9628.93,5235.75,2748.31
+Bob Brown,jane@example.com,79,female,widowed,other,self_employed,teacher,40527.68,no,private,9373.53,3764.98,2875.94,2189.13,3862.18
+Alice Johnson,alice@example.com,52,female,married,other,unemployed,engineer,128994.44,yes,employer,8173.71,6878.8,5969.76,2084.53,5010.78
+John Doe,jane@example.com,46,other,married,bachelors,employed,engineer,42048.86,no,employer,9546.93,9795.87,7581.68,9705.73,2902.39
+Alice Johnson,charlie@example.com,37,male,single,masters,employed,doctor,67065.29,yes,public,3946.0,8952.11,7589.44,1717.83,8073.01
+Jane Smith,john@example.com,30,female,married,other,self_employed,doctor,99255.56,no,employer,3047.39,6649.23,2400.11,2476.67,7313.56
+Bob Brown,bob@example.com,63,other,divorced,bachelors,unemployed,manager,87258.78,yes,none,4905.62,8862.65,1756.33,2538.62,4871.14
+John Doe,charlie@example.com,42,female,married,phd,employed,salesperson,23031.71,yes,private,1349.93,2551.54,9852.32,4435.35,7707.07
+Charlie Davis,bob@example.com,62,male,married,bachelors,self_employed,salesperson,132141.71,no,employer,3072.57,3152.98,2037.07,5407.72,7603.32
+Charlie Davis,bob@example.com,30,female,divorced,other,self_employed,teacher,108105.83,no,employer,9889.64,5712.69,3925.79,7369.45,9477.77
+Alice Johnson,charlie@example.com,43,other,married,other,unemployed,salesperson,50402.13,yes,public,6509.82,3760.54,8787.95,5940.75,5950.82
+Jane Smith,john@example.com,57,male,divorced,high school,self_employed,manager,71013.33,no,employer,6468.52,5067.36,3620.37,1753.97,3877.45
+John Doe,bob@example.com,51,male,married,high school,employed,salesperson,31990.45,yes,public,5509.18,8312.39,1409.07,5737.52,8811.3
+Charlie Davis,alice@example.com,33,other,widowed,phd,self_employed,engineer,57698.64,no,private,5494.73,3423.26,1343.34,8644.23,3594.91
+Jane Smith,john@example.com,65,male,married,bachelors,employed,manager,111483.91,yes,private,3497.42,5142.63,6671.36,8194.39,5284.3
+Bob Brown,jane@example.com,55,male,divorced,phd,employed,engineer,22197.18,yes,none,2025.01,1563.8,7920.84,3486.15,8437.68
+Jane Smith,alice@example.com,39,male,divorced,other,unemployed,engineer,32331.74,no,none,9538.06,9918.14,9931.21,9779.02,4159.71
+John Doe,bob@example.com,29,male,widowed,bachelors,unemployed,engineer,50005.12,no,public,4574.49,9081.04,4953.9,9578.52,1341.66
+Alice Johnson,alice@example.com,24,other,single,bachelors,self_employed,doctor,24603.57,yes,employer,2077.53,2749.1,8115.36,9822.39,3875.08
+Charlie Davis,charlie@example.com,55,other,divorced,high school,self_employed,salesperson,125974.2,yes,private,8513.5,8212.21,5768.83,5808.9,9596.73
+Jane Smith,jane@example.com,20,female,divorced,masters,employed,manager,121138.9,no,private,5342.57,6478.84,4191.45,5411.56,341.03
+Jane Smith,charlie@example.com,47,male,divorced,other,employed,manager,66985.56,yes,none,9765.26,6810.23,9610.34,7708.91,849.91
+Jane Smith,alice@example.com,24,other,single,bachelors,self_employed,teacher,57135.24,no,none,4659.62,7110.8,6767.73,1178.92,9279.59
+Jane Smith,john@example.com,60,other,widowed,phd,unemployed,salesperson,69792.6,no,public,9091.94,7303.81,4781.76,4702.62,3916.85
+Jane Smith,bob@example.com,54,male,single,masters,unemployed,salesperson,106232.2,yes,private,9701.11,8177.76,3434.68,3440.93,4326.87
+Charlie Davis,jane@example.com,58,male,single,high school,unemployed,manager,105029.93,no,none,9525.62,4573.22,8781.31,9854.2,3385.91
+Alice Johnson,alice@example.com,24,other,widowed,phd,self_employed,engineer,144047.15,yes,public,9158.57,8231.35,1959.45,2841.89,4193.94
+Charlie Davis,john@example.com,52,other,widowed,other,employed,salesperson,27287.55,no,private,6484.51,7764.49,3395.19,1264.8,9782.09
+Jane Smith,charlie@example.com,45,female,divorced,phd,unemployed,engineer,133426.88,yes,private,4846.41,3820.49,5386.53,8241.29,1377.41
+Charlie Davis,jane@example.com,71,female,widowed,bachelors,unemployed,manager,87812.94,yes,none,6727.29,2736.78,1228.85,4578.72,7293.04
+Jane Smith,jane@example.com,40,female,married,other,employed,doctor,129819.19,no,private,5129.56,7556.97,6164.79,6231.11,3116.04
+Bob Brown,jane@example.com,67,male,divorced,masters,employed,teacher,125275.44,yes,none,6629.49,6394.44,5576.09,5156.33,6820.61
+Charlie Davis,jane@example.com,53,other,widowed,phd,unemployed,teacher,142503.83,yes,none,3654.65,8193.65,5591.69,8277.46,7595.0
+Bob Brown,jane@example.com,22,other,married,masters,self_employed,manager,117157.72,yes,private,8558.18,1488.25,3960.39,2349.4,4595.98
+Jane Smith,bob@example.com,40,male,single,other,self_employed,salesperson,28649.9,yes,private,8477.15,2789.74,884.4,1000.99,1629.71
+Jane Smith,jane@example.com,76,female,widowed,phd,employed,engineer,118969.07,no,private,2184.98,9980.19,9553.06,8380.22,8391.84
+John Doe,bob@example.com,23,male,widowed,phd,unemployed,doctor,53423.51,yes,private,6191.98,7566.54,3642.02,5417.93,4728.64
+Alice Johnson,charlie@example.com,23,female,single,phd,unemployed,salesperson,136295.31,yes,public,3597.2,9197.01,4815.13,6063.63,5354.08
+Jane Smith,bob@example.com,68,female,divorced,phd,employed,manager,91473.73,yes,employer,2920.25,9785.68,9951.28,2157.97,4741.23
+Charlie Davis,charlie@example.com,18,female,married,phd,employed,engineer,50532.15,yes,none,7917.48,2826.2,5304.0,2734.98,7097.76
+Charlie Davis,alice@example.com,41,other,divorced,phd,employed,doctor,104579.95,no,none,4145.48,1930.09,6450.83,4413.87,508.52
+Charlie Davis,bob@example.com,40,female,single,other,employed,salesperson,62660.16,yes,none,4342.35,9291.39,1468.16,1346.9,8886.61
+Charlie Davis,jane@example.com,38,male,widowed,masters,unemployed,salesperson,29267.07,no,employer,1069.59,8566.28,6275.66,7903.98,5111.99
+Bob Brown,john@example.com,78,female,single,bachelors,self_employed,teacher,129259.54,no,none,3823.24,8008.05,3947.57,4990.46,8634.4
+Jane Smith,bob@example.com,20,other,married,masters,self_employed,doctor,107372.09,yes,public,7435.81,2638.59,6023.1,2250.6,6176.45
+Charlie Davis,bob@example.com,42,other,single,bachelors,employed,salesperson,130921.67,no,public,9483.31,8940.04,6452.85,6773.87,7288.19
+Bob Brown,john@example.com,30,female,widowed,bachelors,self_employed,engineer,39655.79,no,employer,1808.44,6621.39,835.68,1645.26,7361.39
+Charlie Davis,john@example.com,49,male,widowed,other,unemployed,salesperson,44440.33,yes,none,2355.57,8732.79,8602.82,4543.72,8023.99
+John Doe,alice@example.com,71,other,divorced,high school,self_employed,manager,71690.92,yes,private,7698.65,1744.0,8335.86,2365.78,4492.05
+Alice Johnson,alice@example.com,64,female,widowed,bachelors,employed,teacher,20148.72,yes,private,8120.73,1267.13,2986.71,1424.49,4736.76
+Jane Smith,john@example.com,25,other,widowed,masters,employed,doctor,107377.99,no,public,5196.9,5515.5,3893.66,7825.95,4061.63
+John Doe,jane@example.com,34,other,single,bachelors,employed,manager,24196.8,no,none,6373.72,1241.47,8934.74,6846.03,3867.56
+Bob Brown,bob@example.com,53,other,divorced,phd,self_employed,manager,131143.88,yes,public,6897.85,2664.82,3486.01,5536.28,706.98
+Jane Smith,charlie@example.com,73,female,divorced,bachelors,unemployed,teacher,73175.12,no,none,7649.79,7983.82,632.5,2345.03,8591.85
+John Doe,charlie@example.com,53,female,divorced,high school,employed,manager,101393.6,no,public,7258.95,9659.13,7944.06,2562.23,6004.88
+Bob Brown,alice@example.com,47,male,widowed,phd,self_employed,engineer,112037.29,no,public,2979.85,3199.96,7704.53,3534.97,8898.11
+Charlie Davis,alice@example.com,46,male,divorced,masters,employed,manager,40584.99,yes,none,2184.68,8599.21,1447.47,7640.69,2126.05
+John Doe,alice@example.com,49,other,divorced,other,unemployed,manager,136669.01,no,none,6643.3,1545.18,3596.8,7664.43,642.22
+John Doe,charlie@example.com,60,female,divorced,other,self_employed,teacher,72439.55,no,none,2377.49,3033.21,3013.99,2187.08,9577.35
+Bob Brown,charlie@example.com,25,female,married,high school,self_employed,manager,139705.96,yes,public,6706.16,7225.75,3634.26,6088.54,947.31
+Jane Smith,charlie@example.com,45,female,single,phd,unemployed,salesperson,98829.45,yes,none,2510.68,1683.51,6242.87,2455.33,2646.65
+Bob Brown,jane@example.com,29,male,single,masters,unemployed,salesperson,100419.51,yes,none,5417.97,5635.33,1578.17,3050.14,4765.1
+Bob Brown,charlie@example.com,43,female,married,phd,self_employed,salesperson,32201.46,no,private,5076.47,7909.46,637.68,7974.03,1943.56
+Bob Brown,charlie@example.com,29,other,widowed,other,self_employed,teacher,111234.81,no,employer,1165.64,2849.54,1103.72,2622.24,6730.44
+Jane Smith,charlie@example.com,42,other,divorced,high school,self_employed,engineer,140965.8,yes,private,6173.49,3119.65,2582.28,6319.6,2259.9
+Bob Brown,bob@example.com,25,male,single,bachelors,employed,doctor,146419.92,yes,employer,7296.69,6202.03,8188.34,1328.86,4143.61
+Alice Johnson,alice@example.com,27,male,married,phd,self_employed,teacher,103774.32,yes,private,6423.84,4775.44,8516.68,8665.65,6009.39
+John Doe,john@example.com,53,female,widowed,other,self_employed,manager,28077.46,yes,public,1114.54,7897.79,573.08,6771.84,5189.6
+John Doe,alice@example.com,61,female,widowed,masters,unemployed,teacher,97206.66,yes,employer,2729.68,8283.19,4097.61,1654.95,795.45
+Alice Johnson,charlie@example.com,78,female,widowed,high school,self_employed,doctor,64482.52,yes,none,9883.89,9209.48,9385.85,8665.56,4395.0
+Charlie Davis,bob@example.com,20,female,single,masters,unemployed,teacher,31232.8,yes,public,9665.71,8451.17,531.42,2207.29,2736.3
+Jane Smith,charlie@example.com,75,other,divorced,high school,employed,teacher,106510.56,yes,employer,8253.96,3078.0,9976.93,9841.69,2011.98
+Bob Brown,charlie@example.com,66,male,divorced,other,employed,engineer,94441.65,yes,employer,5471.18,1787.77,3152.77,9718.94,292.72
+Charlie Davis,john@example.com,26,female,widowed,bachelors,self_employed,engineer,72027.1,no,none,1973.59,6224.94,6009.85,4329.9,2399.68
+Bob Brown,bob@example.com,21,female,widowed,other,employed,doctor,135334.55,yes,public,6400.43,9447.32,5624.07,5443.64,895.07
+Alice Johnson,alice@example.com,45,male,divorced,high school,employed,manager,67777.15,yes,employer,4679.15,7858.19,2219.43,1878.83,9735.59
+John Doe,john@example.com,55,male,widowed,high school,employed,teacher,60267.01,no,employer,1291.28,7788.62,6270.48,1680.72,3308.88
+John Doe,bob@example.com,59,male,single,high school,self_employed,teacher,106517.78,no,public,6833.05,8500.99,9341.9,3065.76,8302.08
+Jane Smith,jane@example.com,28,other,single,masters,self_employed,engineer,115429.03,no,public,9358.06,8258.9,3698.22,6525.27,3709.95
+Bob Brown,jane@example.com,33,other,married,bachelors,unemployed,doctor,123664.91,yes,public,6224.85,6422.48,2367.44,2324.24,6401.92
+Charlie Davis,charlie@example.com,38,female,divorced,masters,employed,doctor,109275.5,no,none,1954.89,2473.4,5829.87,5554.1,2534.94
+Charlie Davis,john@example.com,64,female,widowed,other,employed,teacher,67072.03,yes,none,3682.79,2390.82,1048.26,8273.36,6486.11
+Bob Brown,john@example.com,48,female,widowed,phd,unemployed,salesperson,81674.72,yes,private,7109.67,2542.46,4916.88,2695.91,1623.16
+Jane Smith,bob@example.com,65,male,single,bachelors,employed,doctor,73334.98,yes,employer,5416.15,4651.6,7537.51,6412.54,1466.6
+Charlie Davis,charlie@example.com,43,other,divorced,phd,unemployed,teacher,134134.82,yes,public,8200.44,3487.12,7005.19,4442.19,4395.21
+Charlie Davis,jane@example.com,75,female,married,high school,employed,engineer,131298.2,yes,private,7461.44,4529.94,3439.1,8804.42,8833.12
+John Doe,john@example.com,64,other,single,bachelors,self_employed,salesperson,84009.04,yes,private,3405.58,5829.98,7831.11,6789.5,167.9
+Bob Brown,jane@example.com,65,female,single,high school,unemployed,manager,146935.41,yes,private,1778.9,3567.03,2494.05,6445.85,8458.02
+Bob Brown,john@example.com,71,other,widowed,high school,employed,salesperson,46051.22,no,employer,1603.8,5165.35,3427.54,9110.17,7382.86
+Bob Brown,john@example.com,59,other,married,other,unemployed,teacher,24909.47,yes,private,4878.87,7056.8,4913.38,1139.92,2171.35
+Jane Smith,john@example.com,62,female,single,bachelors,unemployed,manager,24080.69,yes,private,7323.14,1561.68,9289.33,5507.25,1731.05
+John Doe,bob@example.com,80,other,married,other,unemployed,manager,91136.75,yes,employer,6085.14,5977.19,8203.58,4605.13,4732.16
+Jane Smith,bob@example.com,74,male,single,other,employed,engineer,100136.41,yes,none,1512.26,9128.14,5855.26,5387.34,7975.73
+John Doe,john@example.com,75,female,single,bachelors,employed,salesperson,54121.76,yes,none,3244.93,1743.14,9355.97,4363.9,7172.03
+Alice Johnson,bob@example.com,70,male,divorced,high school,self_employed,doctor,108188.86,no,employer,6940.64,8419.67,4096.87,5661.84,1010.9
+Jane Smith,jane@example.com,29,other,widowed,phd,employed,salesperson,50564.07,yes,none,1928.1,6177.65,2607.78,6784.55,3234.7
+John Doe,alice@example.com,79,other,widowed,high school,self_employed,teacher,109080.55,no,employer,3507.71,7759.21,2669.29,8222.15,5036.94
+Jane Smith,bob@example.com,40,male,married,masters,unemployed,engineer,146505.26,no,private,8782.05,8937.96,254.44,3798.83,5588.12
+Charlie Davis,alice@example.com,21,female,married,phd,unemployed,engineer,33171.16,yes,none,2354.54,5600.37,2471.49,1660.77,7883.96
+Charlie Davis,alice@example.com,55,other,widowed,bachelors,employed,salesperson,32518.63,no,none,3962.59,8277.27,5837.25,3037.97,2807.99
+Bob Brown,bob@example.com,44,female,divorced,bachelors,employed,manager,92977.3,no,private,1525.7,2092.88,8901.42,9081.7,3769.4
+John Doe,charlie@example.com,74,other,widowed,other,employed,engineer,129874.53,yes,private,7252.69,5967.12,4153.93,6050.28,8533.16
+Alice Johnson,bob@example.com,63,male,married,phd,self_employed,engineer,121864.62,no,employer,4659.49,7276.33,4671.88,1004.66,3168.07
+Charlie Davis,alice@example.com,41,other,divorced,other,employed,salesperson,23577.29,no,public,1819.91,1095.05,7327.39,8257.36,829.47
+Charlie Davis,alice@example.com,31,male,single,high school,self_employed,manager,72889.33,no,public,7199.34,5255.21,7862.91,9517.18,4615.74
+Charlie Davis,jane@example.com,78,male,married,bachelors,self_employed,teacher,29337.09,no,private,2301.05,1295.97,3522.5,6977.99,661.54
+Charlie Davis,john@example.com,36,other,single,bachelors,employed,salesperson,99859.91,no,public,5721.2,7274.53,2372.9,9528.4,8638.67
+John Doe,charlie@example.com,64,male,widowed,other,employed,manager,45924.14,no,employer,2651.13,8345.48,7120.61,2729.28,6732.69
+Charlie Davis,john@example.com,52,male,divorced,bachelors,self_employed,manager,114110.25,no,employer,3117.9,9366.59,4109.47,3704.44,2911.26
+John Doe,alice@example.com,72,female,widowed,high school,employed,salesperson,91898.08,no,employer,7251.44,3670.23,5933.04,8908.33,6484.41
+Bob Brown,charlie@example.com,73,female,single,other,unemployed,engineer,131139.55,no,none,6154.23,1010.96,4492.56,4934.23,1699.96
+Alice Johnson,bob@example.com,62,female,widowed,masters,employed,manager,29431.79,yes,public,7938.06,9293.58,2908.1,6789.21,6410.83
+Alice Johnson,bob@example.com,39,other,widowed,high school,employed,doctor,113726.48,no,private,3130.23,1699.77,5058.9,6725.77,309.64
+John Doe,bob@example.com,48,other,divorced,bachelors,unemployed,teacher,125284.11,no,none,5880.0,1955.08,9311.5,8997.2,5172.59
+Charlie Davis,alice@example.com,45,male,married,high school,employed,teacher,103692.63,yes,none,4147.68,2069.74,9350.59,8392.38,9594.88
+Jane Smith,jane@example.com,79,other,married,high school,employed,engineer,29469.56,no,employer,3064.01,6461.52,9504.14,3675.08,8416.89
+John Doe,charlie@example.com,53,male,single,high school,unemployed,salesperson,111200.28,yes,employer,2876.7,5399.32,5371.98,1389.93,8465.15
+John Doe,alice@example.com,62,male,widowed,high school,self_employed,salesperson,109219.78,yes,none,9522.58,6609.27,4845.37,2628.12,9724.79
+Jane Smith,charlie@example.com,56,male,widowed,other,unemployed,engineer,140474.86,yes,public,4385.07,6508.21,7059.72,4384.09,715.39
+Jane Smith,john@example.com,37,other,divorced,high school,unemployed,salesperson,53100.28,yes,private,1516.21,1391.45,7487.38,9325.6,4369.4
+Jane Smith,john@example.com,71,female,single,bachelors,employed,engineer,61040.38,yes,employer,7028.01,3189.49,7784.17,3576.63,8316.54
+Jane Smith,jane@example.com,70,other,divorced,masters,self_employed,salesperson,45812.89,yes,public,5422.75,3649.85,8086.73,2203.61,160.99
+Bob Brown,charlie@example.com,65,other,widowed,high school,unemployed,engineer,100477.81,yes,employer,4983.59,7117.33,5395.01,1690.51,7042.03
+Bob Brown,charlie@example.com,66,male,single,masters,employed,engineer,43075.37,no,employer,4390.1,4189.9,6729.87,6033.12,1258.91
+Bob Brown,bob@example.com,48,female,divorced,high school,unemployed,doctor,118341.36,no,private,1064.59,4862.73,9259.99,7262.26,6556.91
+Bob Brown,charlie@example.com,52,female,divorced,masters,self_employed,salesperson,58414.07,yes,employer,4600.37,5211.85,859.59,6008.1,8919.11
+Alice Johnson,charlie@example.com,21,male,divorced,high school,unemployed,doctor,58712.99,no,employer,9623.11,8327.99,1508.62,2880.11,4613.05
+Charlie Davis,bob@example.com,32,male,widowed,high school,employed,salesperson,98934.21,no,private,9829.27,8472.42,8768.6,1780.96,9363.64
+John Doe,bob@example.com,50,male,widowed,masters,self_employed,salesperson,140058.15,no,private,5298.27,6980.3,5572.93,7524.09,4466.69
+Bob Brown,charlie@example.com,44,other,single,masters,employed,doctor,23544.37,no,private,7835.49,2911.73,9486.19,8114.48,4036.36
+Bob Brown,alice@example.com,76,other,married,other,unemployed,salesperson,52209.06,no,employer,7297.11,8115.82,4390.41,3921.73,2392.68
+Bob Brown,bob@example.com,37,female,single,high school,unemployed,engineer,78610.12,no,employer,6931.25,6010.09,614.54,3006.07,3269.27
+Jane Smith,charlie@example.com,58,other,married,masters,unemployed,teacher,84350.04,yes,private,7668.54,7848.9,3559.56,4539.88,1257.63
+Bob Brown,charlie@example.com,72,male,widowed,masters,self_employed,teacher,55381.25,no,employer,7482.11,8297.22,5984.59,5911.3,7079.75
+John Doe,john@example.com,70,female,widowed,masters,employed,engineer,88874.64,no,private,4236.53,3698.41,715.08,6540.81,8701.6
+Jane Smith,john@example.com,71,other,widowed,high school,unemployed,doctor,77120.18,no,employer,2019.16,6961.57,5396.11,9965.56,8535.96
+John Doe,jane@example.com,35,other,widowed,other,self_employed,manager,141107.41,no,none,6434.04,4638.1,3353.68,9205.59,1722.39
+Alice Johnson,charlie@example.com,27,other,single,high school,unemployed,doctor,47114.99,yes,public,1376.77,6676.86,3966.78,3048.88,6649.77
+Alice Johnson,john@example.com,37,female,widowed,masters,employed,teacher,135874.23,yes,public,5099.96,3805.04,1372.58,5685.65,2983.85
+Jane Smith,jane@example.com,39,other,married,masters,employed,doctor,37856.59,no,public,7571.98,9027.94,8209.88,3647.96,1981.78
+Bob Brown,alice@example.com,26,male,married,bachelors,self_employed,manager,21554.36,yes,none,8273.97,1702.42,9776.47,6120.57,4499.08
+John Doe,jane@example.com,57,male,widowed,masters,unemployed,salesperson,103241.48,yes,none,7969.38,2954.17,9013.53,7621.69,4281.02
+John Doe,john@example.com,59,male,divorced,bachelors,employed,teacher,57542.7,no,private,1161.51,5089.27,5025.09,8948.26,4002.46
+Bob Brown,charlie@example.com,63,male,married,masters,unemployed,teacher,83063.83,no,public,8681.51,6205.78,7988.18,8364.56,513.33
+Bob Brown,jane@example.com,21,male,married,bachelors,unemployed,doctor,134517.71,yes,employer,2178.73,1545.53,9625.24,9153.81,9003.98
+Charlie Davis,alice@example.com,78,male,widowed,other,self_employed,engineer,102281.14,no,public,5069.2,5403.04,3337.09,1350.35,2281.75
+Charlie Davis,alice@example.com,74,male,single,other,employed,doctor,143153.87,yes,public,3281.66,9395.55,561.49,8967.12,7776.32
+John Doe,jane@example.com,22,male,single,other,unemployed,manager,68830.13,yes,none,3271.62,6958.98,4182.16,7878.83,832.19
+Alice Johnson,john@example.com,29,female,widowed,high school,unemployed,manager,84304.55,no,public,6248.69,5406.23,9532.51,9034.34,4526.58
+John Doe,alice@example.com,30,male,widowed,masters,self_employed,doctor,139841.44,no,private,7099.4,4750.42,5025.14,5877.95,8947.57
+Bob Brown,charlie@example.com,19,female,widowed,masters,unemployed,teacher,130604.06,yes,none,3137.33,2281.51,6987.11,3497.75,8102.37
+Bob Brown,bob@example.com,35,other,widowed,phd,unemployed,engineer,33641.92,yes,public,4616.03,7464.77,8977.3,9185.09,6385.82
+Jane Smith,jane@example.com,19,female,divorced,phd,unemployed,engineer,92681.25,yes,private,1673.74,5566.97,2850.23,9960.48,9588.02
+Jane Smith,john@example.com,21,other,widowed,masters,employed,doctor,34545.3,yes,private,4956.03,4171.67,9826.55,3361.55,4536.57
+Jane Smith,charlie@example.com,52,male,married,masters,self_employed,manager,143780.83,no,none,3001.67,7366.99,8151.19,1486.29,5086.03
+Bob Brown,john@example.com,61,other,married,masters,self_employed,salesperson,63808.0,no,employer,6788.11,1688.95,7604.36,6939.99,1302.47
+John Doe,charlie@example.com,43,male,married,other,unemployed,doctor,47401.78,no,public,5435.05,8705.67,5868.03,5302.64,7730.92
+Alice Johnson,john@example.com,73,male,married,other,self_employed,doctor,95916.37,yes,none,2772.17,4394.06,4249.63,5167.63,1351.53
+Charlie Davis,jane@example.com,23,female,divorced,high school,employed,salesperson,123219.03,yes,private,7819.92,4425.66,5923.32,7721.62,9225.1
+Alice Johnson,bob@example.com,69,male,single,masters,unemployed,engineer,55305.77,no,employer,9396.18,7517.73,4124.34,5473.83,2183.99
+Jane Smith,bob@example.com,67,male,married,other,unemployed,manager,54207.57,no,none,2107.75,5747.32,5504.98,2949.98,3691.77
+Alice Johnson,jane@example.com,42,male,divorced,other,employed,teacher,32279.83,no,employer,1805.47,9125.95,1168.8,6830.08,6361.16
+Charlie Davis,charlie@example.com,65,female,married,masters,unemployed,doctor,135588.4,no,private,6236.86,1848.78,6668.6,8068.17,5093.73
+Charlie Davis,bob@example.com,51,female,single,phd,self_employed,manager,28334.18,yes,public,4037.37,9643.59,9434.6,3274.12,8654.88
+Charlie Davis,charlie@example.com,50,other,divorced,high school,unemployed,doctor,122424.12,yes,none,9996.94,6354.5,1335.2,3754.83,7083.52
+John Doe,jane@example.com,18,male,divorced,other,unemployed,manager,103964.77,yes,employer,8132.49,5958.36,4700.3,6216.68,2083.41
+Alice Johnson,alice@example.com,80,other,divorced,phd,employed,engineer,128379.41,no,public,2923.89,8184.13,4622.86,1111.74,4339.5
+John Doe,alice@example.com,25,female,divorced,bachelors,self_employed,teacher,72238.45,no,employer,8587.21,8421.82,2800.8,9471.28,7843.89
+Alice Johnson,charlie@example.com,22,other,divorced,phd,self_employed,engineer,82885.33,no,employer,3749.91,6656.18,6692.51,6654.19,3945.14
+Bob Brown,john@example.com,63,female,single,high school,self_employed,engineer,37563.11,no,employer,4246.63,8996.84,1868.56,8856.7,1352.78
+Jane Smith,alice@example.com,69,female,widowed,bachelors,employed,doctor,87435.03,yes,employer,9765.54,2768.26,1476.9,9139.35,5186.91
+Jane Smith,bob@example.com,23,female,divorced,phd,self_employed,salesperson,26527.65,yes,public,3737.51,8464.24,2121.32,3137.83,4588.86
+Jane Smith,charlie@example.com,56,male,married,masters,self_employed,doctor,30934.13,no,none,1843.01,2151.84,5470.93,7962.09,2261.14
+Bob Brown,jane@example.com,25,female,widowed,masters,unemployed,manager,30807.13,no,public,2691.48,7597.93,2945.69,5835.6,102.7
+Alice Johnson,jane@example.com,72,other,single,other,employed,doctor,133239.48,no,employer,4777.81,5819.68,6973.63,4657.37,1595.42
+Charlie Davis,charlie@example.com,78,other,married,phd,self_employed,teacher,108416.66,yes,employer,1277.82,2134.79,4786.15,9103.28,8626.23
+Alice Johnson,alice@example.com,45,male,divorced,other,self_employed,engineer,137751.94,no,private,9327.6,5762.82,6550.21,1585.36,6283.52
+Jane Smith,alice@example.com,26,female,married,high school,unemployed,teacher,117651.83,no,private,9685.92,3281.61,9290.41,5608.26,9598.09
+John Doe,bob@example.com,55,other,divorced,other,employed,teacher,39416.78,no,private,8681.5,1851.58,3065.68,7286.02,991.6
+Bob Brown,charlie@example.com,57,female,single,phd,self_employed,salesperson,119704.95,no,none,7117.93,6950.46,7775.08,3132.43,7986.75
+Bob Brown,bob@example.com,25,other,divorced,bachelors,unemployed,teacher,96592.25,no,employer,1477.58,8610.21,4100.28,9343.58,4124.82
+Bob Brown,alice@example.com,60,female,single,masters,unemployed,doctor,88534.06,yes,private,2452.9,7851.7,6498.64,4252.24,1911.69
+Bob Brown,jane@example.com,66,male,divorced,phd,employed,salesperson,59624.68,no,public,4035.01,4953.34,9428.14,5240.09,5112.28
+Alice Johnson,jane@example.com,59,female,single,high school,self_employed,engineer,71732.94,yes,public,3633.33,4628.31,5712.33,6942.99,3899.29
+John Doe,alice@example.com,61,other,widowed,other,employed,salesperson,90591.49,no,employer,3583.69,1280.3,8834.19,5800.8,92.24
+Jane Smith,john@example.com,63,other,divorced,phd,self_employed,teacher,26144.43,yes,none,5795.86,9868.81,5366.9,9728.35,3999.17
+Jane Smith,jane@example.com,28,other,single,other,unemployed,teacher,108482.76,yes,private,1771.92,2829.57,598.29,4186.89,1074.11
+Bob Brown,bob@example.com,52,male,married,high school,unemployed,doctor,41682.11,yes,none,8723.4,7439.3,2528.57,7939.22,655.46
+Charlie Davis,jane@example.com,55,male,widowed,bachelors,unemployed,engineer,96484.06,no,public,8252.75,2881.27,7615.32,4588.72,6360.45
+Alice Johnson,bob@example.com,66,female,married,bachelors,employed,engineer,81038.07,no,private,8489.5,7360.75,5186.04,1317.66,7181.48
+Alice Johnson,alice@example.com,63,female,divorced,high school,employed,engineer,129707.43,yes,public,1968.23,3139.89,1838.98,8486.04,4741.67
+Alice Johnson,jane@example.com,73,male,single,high school,self_employed,doctor,67336.99,no,none,2194.91,5576.61,435.7,5511.85,3818.89
+Alice Johnson,bob@example.com,55,female,divorced,bachelors,self_employed,salesperson,93424.88,no,public,9446.63,9282.57,3718.23,5809.39,1893.87
+Jane Smith,john@example.com,37,male,single,bachelors,unemployed,salesperson,149240.66,no,private,9141.89,4058.44,1569.04,8052.19,7491.6
+John Doe,alice@example.com,38,other,widowed,high school,self_employed,manager,91590.88,yes,public,5767.55,8987.66,2437.38,1398.13,3632.21
+Jane Smith,bob@example.com,33,other,single,other,employed,salesperson,82389.87,no,private,3820.18,2980.31,1158.56,3031.91,376.43
+John Doe,charlie@example.com,46,female,widowed,phd,employed,salesperson,57981.05,no,employer,8988.3,4338.67,1941.15,7158.06,6198.26
+John Doe,bob@example.com,72,female,divorced,phd,employed,manager,50324.02,no,employer,1743.41,8272.33,4845.21,5049.26,9659.57
+Alice Johnson,john@example.com,62,male,divorced,phd,self_employed,manager,26150.76,no,public,7813.11,1570.01,7259.87,2631.44,7725.76
+John Doe,jane@example.com,36,male,single,phd,self_employed,engineer,116772.08,no,none,4380.17,4553.31,8433.76,1961.81,1780.93
+Bob Brown,john@example.com,36,male,married,bachelors,self_employed,salesperson,91670.09,yes,public,5657.99,7195.13,1633.44,3391.9,1236.7
+Bob Brown,jane@example.com,31,female,widowed,other,self_employed,salesperson,32657.77,yes,employer,4044.8,1056.07,1381.39,3510.34,5955.19
+Jane Smith,jane@example.com,51,female,widowed,high school,unemployed,teacher,87451.92,no,private,5703.69,5671.85,3162.28,9298.89,9271.19
+John Doe,alice@example.com,38,other,divorced,high school,unemployed,salesperson,88538.16,no,employer,8916.91,5884.25,4304.4,6835.16,1083.77
+Bob Brown,bob@example.com,76,female,single,other,unemployed,engineer,44240.33,no,employer,6763.97,3446.33,8175.67,6200.32,4504.12
+Jane Smith,charlie@example.com,37,male,widowed,high school,employed,manager,127992.31,yes,employer,4252.88,4968.95,624.76,3459.71,7038.77
+John Doe,bob@example.com,75,female,widowed,phd,employed,manager,67522.95,no,employer,7736.88,5450.54,5804.68,2434.71,2939.29
+Jane Smith,bob@example.com,42,female,divorced,other,unemployed,doctor,64577.17,no,private,8282.37,5938.81,2008.16,3565.4,475.82
+Jane Smith,jane@example.com,64,other,single,other,unemployed,doctor,99398.45,no,employer,1913.53,4480.51,6196.6,9077.49,3833.6
+Alice Johnson,charlie@example.com,18,female,divorced,phd,self_employed,salesperson,133478.27,no,private,3344.97,7584.09,6008.18,3363.29,4253.38
+Jane Smith,alice@example.com,58,female,married,phd,employed,engineer,74127.58,yes,public,1764.79,9427.49,417.1,1209.14,1464.0
+Charlie Davis,charlie@example.com,57,female,widowed,masters,employed,doctor,56755.39,yes,private,5030.94,3534.83,1769.8,4052.02,6307.82
+Jane Smith,charlie@example.com,43,other,single,masters,unemployed,doctor,28641.91,yes,employer,1116.32,2299.5,6630.19,9828.93,2732.82
+Alice Johnson,jane@example.com,30,female,single,bachelors,unemployed,teacher,43734.18,yes,none,6993.72,6542.16,480.53,5463.36,5949.78
+Jane Smith,bob@example.com,21,female,divorced,bachelors,self_employed,teacher,71737.16,yes,private,4890.33,6223.09,6208.0,4509.43,1861.27
+Alice Johnson,jane@example.com,64,male,widowed,phd,employed,salesperson,32299.75,yes,public,8219.25,1566.61,9275.5,6899.64,8127.65
+Charlie Davis,charlie@example.com,37,male,widowed,bachelors,self_employed,manager,88008.05,no,public,3163.36,8857.28,1238.91,7188.41,902.08
+Alice Johnson,john@example.com,75,other,divorced,masters,self_employed,engineer,146395.27,yes,public,7445.31,9142.94,2022.08,3328.33,7970.93
+John Doe,john@example.com,20,other,widowed,high school,unemployed,engineer,101188.28,yes,private,8922.93,2873.44,9307.18,7001.98,630.26
+Bob Brown,alice@example.com,28,other,single,high school,unemployed,doctor,141741.3,no,employer,1537.04,6304.36,2084.48,3545.33,2499.7
+Charlie Davis,alice@example.com,21,female,divorced,masters,unemployed,teacher,125907.58,no,private,6794.42,9388.62,1514.44,5301.22,197.0
+Alice Johnson,john@example.com,49,other,single,phd,employed,doctor,64473.98,yes,none,7613.49,7033.43,2893.95,2826.43,1284.2
+Charlie Davis,jane@example.com,45,female,widowed,bachelors,unemployed,doctor,139488.19,yes,private,1431.99,5319.99,5846.17,1259.87,6230.23
+Jane Smith,alice@example.com,73,other,widowed,high school,employed,doctor,139611.93,yes,employer,1555.39,2563.29,1125.64,7413.9,7512.92
+John Doe,alice@example.com,34,female,married,high school,self_employed,salesperson,23594.7,no,public,3223.17,5033.78,9036.97,7621.36,683.44
+Charlie Davis,jane@example.com,49,female,single,masters,self_employed,manager,136308.05,no,private,3246.6,6576.84,9469.89,2335.02,845.53
+John Doe,charlie@example.com,68,male,single,phd,employed,salesperson,134913.7,no,public,1908.8,6582.39,4538.36,6091.93,1523.2
+Jane Smith,jane@example.com,52,female,divorced,high school,employed,engineer,92255.63,yes,private,1306.93,6784.66,6514.33,2781.79,3590.36
+John Doe,charlie@example.com,37,male,divorced,masters,employed,teacher,40558.7,no,public,1442.24,7955.26,9973.67,1260.87,316.02
+Bob Brown,jane@example.com,30,female,widowed,phd,employed,manager,142663.55,yes,private,6646.08,8464.27,6511.52,7083.38,6287.52
+Alice Johnson,john@example.com,61,female,single,phd,employed,engineer,110242.45,yes,private,6884.6,2360.61,6002.61,4746.39,9114.57
+John Doe,charlie@example.com,74,male,widowed,phd,self_employed,engineer,85032.31,no,employer,1046.2,4149.33,7114.94,7333.57,4286.99
+Jane Smith,bob@example.com,80,male,married,high school,unemployed,teacher,44182.4,yes,private,5036.65,5116.95,7702.69,4531.8,4527.9
+Charlie Davis,alice@example.com,33,other,widowed,phd,unemployed,teacher,56027.58,no,employer,1523.86,6865.27,3505.46,1121.59,859.61
+John Doe,alice@example.com,51,other,married,masters,unemployed,manager,58519.21,yes,employer,5872.97,6399.21,9191.62,1462.65,8670.12
+John Doe,bob@example.com,74,other,single,bachelors,self_employed,engineer,99883.78,yes,employer,3119.92,7203.86,4557.67,6019.49,4108.16
+Charlie Davis,john@example.com,68,female,single,other,employed,doctor,106904.21,no,none,2300.63,7148.35,5537.89,3022.53,8941.31
+Bob Brown,alice@example.com,29,other,single,masters,unemployed,engineer,33591.47,no,none,4811.66,6632.6,543.81,1733.47,8054.84
+Bob Brown,alice@example.com,32,female,married,phd,unemployed,teacher,67102.89,yes,employer,7797.21,1376.9,5738.0,8836.88,4730.63
+Charlie Davis,alice@example.com,45,male,widowed,high school,self_employed,salesperson,39788.51,no,public,2310.77,9155.75,9259.63,4261.38,2374.87
+Alice Johnson,john@example.com,58,other,married,other,unemployed,teacher,116686.7,yes,employer,1011.11,2495.43,4503.47,6196.3,3341.55
+Alice Johnson,john@example.com,19,female,widowed,other,self_employed,teacher,58900.19,no,private,3672.36,4807.74,3819.55,4264.99,7398.94
+Alice Johnson,bob@example.com,79,other,divorced,masters,unemployed,doctor,114188.7,no,private,5674.68,9446.89,3233.62,2443.41,8314.57
+Charlie Davis,charlie@example.com,59,female,single,masters,self_employed,manager,105648.64,yes,employer,1919.4,9484.79,289.94,2796.26,7000.44
+Alice Johnson,bob@example.com,21,other,widowed,bachelors,employed,doctor,117961.4,no,public,1270.67,5930.3,5759.94,4055.7,4022.92
+Bob Brown,bob@example.com,53,male,widowed,other,self_employed,teacher,29246.51,yes,private,8508.62,9551.79,3525.33,8550.83,7931.34
+Jane Smith,jane@example.com,69,male,widowed,masters,self_employed,teacher,136154.7,no,employer,6849.1,7166.42,5166.47,1153.62,3967.34
+Alice Johnson,jane@example.com,79,male,single,phd,self_employed,teacher,83800.75,no,none,3674.57,2748.66,7463.78,2463.76,523.27
+Bob Brown,alice@example.com,80,other,divorced,phd,unemployed,engineer,42315.81,no,private,7901.07,8816.53,8249.36,4069.13,2504.74
+John Doe,alice@example.com,51,female,single,high school,employed,doctor,120756.9,no,employer,6627.12,2370.67,1358.17,3312.09,2149.48
+Charlie Davis,john@example.com,68,male,divorced,other,unemployed,teacher,93669.96,yes,none,4007.11,7595.56,9447.94,7020.08,281.93
+Jane Smith,charlie@example.com,76,male,widowed,high school,self_employed,doctor,21767.33,yes,private,4959.44,1933.95,4262.02,9254.17,5041.32
+Bob Brown,charlie@example.com,51,female,married,masters,unemployed,manager,67369.44,no,public,7098.68,4895.14,9009.46,9220.92,2288.64
+Bob Brown,alice@example.com,45,female,divorced,high school,self_employed,salesperson,48750.38,yes,private,1644.74,2048.87,2845.9,5283.0,8159.67
+Jane Smith,jane@example.com,67,female,single,other,unemployed,salesperson,78990.56,yes,public,2275.86,8834.92,4106.37,1586.69,400.41
+John Doe,bob@example.com,64,male,single,other,self_employed,doctor,103255.65,no,none,3764.09,7132.13,1355.73,5541.22,1031.73
+Alice Johnson,jane@example.com,69,female,married,high school,employed,manager,69468.82,yes,private,4532.25,9969.53,6348.81,6461.97,9540.42
+Alice Johnson,jane@example.com,79,male,married,other,unemployed,salesperson,111102.76,no,employer,8971.34,9530.09,3014.42,6475.43,9030.88
+Alice Johnson,bob@example.com,19,other,widowed,bachelors,unemployed,manager,53179.09,no,public,2946.08,2636.59,9676.79,9386.94,9662.21
+Jane Smith,alice@example.com,60,other,divorced,high school,employed,doctor,31871.27,no,none,7713.33,5600.92,4609.12,8059.25,7392.46
+Bob Brown,charlie@example.com,58,female,married,masters,unemployed,engineer,145644.52,no,none,7015.57,1388.41,546.58,8272.03,3349.86
+Charlie Davis,bob@example.com,39,male,married,other,unemployed,manager,40472.64,no,public,2591.52,4163.98,7967.17,8622.04,4510.45
+John Doe,bob@example.com,28,other,married,masters,unemployed,engineer,48717.2,yes,private,4478.7,1948.89,3726.43,8313.17,2942.46
+Jane Smith,alice@example.com,53,female,married,high school,self_employed,teacher,28697.71,yes,none,4008.17,9403.97,2234.26,6435.18,7177.04
+Jane Smith,jane@example.com,73,female,widowed,high school,self_employed,manager,98655.64,no,none,1013.73,8460.67,5443.79,9027.34,7466.46
+John Doe,alice@example.com,73,male,married,high school,self_employed,engineer,86334.15,yes,none,9841.33,7112.34,458.49,8040.89,4997.78
+Bob Brown,jane@example.com,58,other,single,bachelors,employed,teacher,118641.84,yes,none,3694.2,1323.98,4515.53,3313.01,4696.11
+Alice Johnson,charlie@example.com,62,female,married,bachelors,unemployed,doctor,20645.54,no,private,3744.82,2743.93,5483.84,8222.97,2382.6
+Jane Smith,bob@example.com,57,female,widowed,phd,employed,doctor,29967.79,yes,private,7234.6,9563.11,6270.56,3346.89,1498.82
+Charlie Davis,jane@example.com,41,male,divorced,phd,employed,manager,73100.08,no,private,8987.91,8178.19,7718.57,5823.64,8361.65
+Bob Brown,jane@example.com,25,female,widowed,masters,self_employed,teacher,117085.87,yes,private,8941.98,5784.21,5508.86,9007.97,4901.2
+Alice Johnson,john@example.com,60,other,married,other,self_employed,doctor,63376.21,yes,private,5061.53,5141.27,1802.92,5320.42,5525.35
+Alice Johnson,john@example.com,61,female,married,phd,employed,manager,115915.15,yes,none,9139.6,5637.2,1072.25,1802.46,2362.83
+Alice Johnson,john@example.com,65,male,single,masters,employed,teacher,141814.26,no,public,2517.99,3735.11,9602.81,9797.18,440.3
+Alice Johnson,jane@example.com,70,female,single,masters,self_employed,teacher,69776.42,no,employer,3973.93,1824.9,9283.81,7322.97,7866.42
+Jane Smith,alice@example.com,57,male,single,phd,unemployed,teacher,66363.71,no,public,2782.2,5884.71,4830.11,4727.1,6468.66
+Charlie Davis,charlie@example.com,46,female,divorced,phd,unemployed,salesperson,96270.47,no,private,6468.09,9290.12,2253.66,5636.6,5256.46
+Charlie Davis,john@example.com,62,other,married,masters,unemployed,manager,31892.28,yes,public,5010.24,3693.64,486.65,2524.52,1589.53
+Jane Smith,alice@example.com,80,male,divorced,high school,unemployed,doctor,123627.78,no,employer,3831.8,8808.67,472.78,9446.89,6972.5
+John Doe,charlie@example.com,67,other,divorced,phd,self_employed,engineer,99679.5,no,employer,8190.23,2757.32,9992.99,2183.58,3089.29
+Jane Smith,charlie@example.com,80,female,divorced,high school,self_employed,teacher,63347.85,no,employer,8860.24,7285.13,8686.87,1414.01,3785.12
+Bob Brown,jane@example.com,58,male,married,bachelors,employed,manager,79630.59,yes,public,2161.82,1296.45,1268.54,3163.16,6177.22
+Jane Smith,charlie@example.com,28,male,divorced,bachelors,unemployed,engineer,136548.61,no,public,2908.65,1726.55,5961.61,7337.7,5635.68
+John Doe,bob@example.com,47,other,married,phd,unemployed,teacher,129660.04,no,none,7718.9,2417.07,3597.4,4812.13,2341.67
+Charlie Davis,bob@example.com,33,other,widowed,high school,unemployed,engineer,60927.54,yes,public,4909.76,7345.9,7329.9,4679.42,7138.83
+Alice Johnson,alice@example.com,73,female,married,bachelors,self_employed,doctor,120743.04,yes,none,4590.73,7855.25,3290.84,2327.79,1254.66
+Charlie Davis,charlie@example.com,79,other,married,masters,self_employed,doctor,108185.41,no,private,7673.74,4112.87,1230.52,2469.04,2133.97
+Jane Smith,john@example.com,21,other,married,phd,employed,engineer,43315.7,yes,none,5193.34,4601.52,1881.56,1491.49,4818.4
+Alice Johnson,john@example.com,55,male,widowed,phd,unemployed,doctor,80973.76,yes,employer,5199.9,3912.0,1550.97,1068.1,1461.79
+John Doe,charlie@example.com,30,male,widowed,masters,self_employed,doctor,107612.38,no,public,4101.65,7384.59,264.96,2635.45,2950.18
+John Doe,alice@example.com,56,female,married,bachelors,employed,teacher,33933.16,no,employer,8803.87,9050.63,1662.96,7226.62,3086.04
+Bob Brown,john@example.com,44,male,divorced,other,self_employed,doctor,141606.1,yes,employer,3836.7,6574.28,7332.58,1776.14,9017.35
+John Doe,charlie@example.com,30,female,married,bachelors,self_employed,doctor,123581.8,yes,employer,6720.45,7788.32,5605.82,8935.49,7238.07
+John Doe,charlie@example.com,33,female,single,other,self_employed,salesperson,20738.25,yes,private,3241.05,8489.59,6413.47,7307.71,8465.53
+Alice Johnson,charlie@example.com,34,other,divorced,other,unemployed,manager,52816.66,no,public,5289.5,9316.4,6071.93,9637.75,5793.8
+Alice Johnson,bob@example.com,18,other,married,high school,unemployed,salesperson,114984.72,yes,none,5007.01,6315.96,2874.04,2581.51,5144.34
+John Doe,john@example.com,44,male,married,bachelors,unemployed,engineer,148049.59,no,private,7207.53,8938.6,935.18,8234.86,386.32
+Jane Smith,jane@example.com,59,male,widowed,bachelors,employed,salesperson,94971.06,yes,public,1520.44,9770.79,8813.67,9202.4,1906.47
+Jane Smith,bob@example.com,19,other,married,other,self_employed,manager,71619.76,yes,none,6585.68,9623.22,8623.92,1989.27,7784.52
+Alice Johnson,charlie@example.com,39,male,single,phd,employed,salesperson,113566.96,yes,none,2496.27,4092.96,9210.56,3908.18,6682.26
+Jane Smith,alice@example.com,70,other,single,bachelors,self_employed,manager,42974.12,no,employer,9796.88,8562.1,9244.8,6297.91,2256.57
+Charlie Davis,bob@example.com,79,other,married,high school,self_employed,salesperson,50061.87,no,none,1014.17,6757.74,9758.93,3845.07,4122.13
+Jane Smith,jane@example.com,75,male,widowed,high school,self_employed,doctor,90786.97,no,private,6411.38,2199.72,1872.89,2641.5,7703.29
+Jane Smith,bob@example.com,55,other,single,masters,self_employed,teacher,75367.66,yes,employer,9199.59,9140.76,558.64,9639.92,582.35
+John Doe,jane@example.com,55,other,married,masters,unemployed,manager,134844.07,no,public,8928.66,8708.15,7148.46,3266.24,1780.22
+Alice Johnson,john@example.com,47,other,married,bachelors,unemployed,doctor,108002.14,yes,private,9823.17,2459.87,6419.3,2086.78,9850.34
+Alice Johnson,jane@example.com,54,other,single,high school,employed,teacher,67356.55,no,employer,2101.51,9270.34,5243.63,5255.48,4205.5
+Bob Brown,bob@example.com,80,male,married,high school,self_employed,teacher,84513.69,yes,none,1523.09,1404.52,7025.44,1730.21,9742.1
+Bob Brown,bob@example.com,75,other,married,bachelors,self_employed,manager,34817.56,yes,employer,5748.31,9642.38,1414.66,4714.03,6086.08
+Bob Brown,alice@example.com,47,female,single,high school,unemployed,teacher,91622.9,yes,private,8523.68,4919.98,1173.71,4558.86,6171.07
+Alice Johnson,john@example.com,73,male,divorced,phd,unemployed,doctor,79375.35,no,employer,9490.19,3154.0,9198.77,6183.17,2182.7
+Charlie Davis,bob@example.com,26,other,widowed,phd,employed,manager,76360.44,yes,employer,2361.7,1590.18,7219.97,2874.7,8093.18
+Bob Brown,john@example.com,39,other,widowed,phd,employed,manager,143242.52,yes,private,2633.62,6408.59,6843.73,9128.65,4439.8
+Bob Brown,charlie@example.com,68,female,widowed,phd,unemployed,salesperson,60277.35,yes,private,9409.65,8184.16,3122.17,1362.89,5831.59
+Alice Johnson,john@example.com,80,male,divorced,other,employed,doctor,51207.19,no,private,7225.0,2110.04,3648.01,8022.42,234.42
+Bob Brown,jane@example.com,77,male,single,phd,unemployed,teacher,110953.56,yes,none,4668.08,3905.69,875.09,6249.31,1813.78
+Charlie Davis,alice@example.com,25,female,single,other,unemployed,teacher,73206.73,no,private,2822.87,5388.11,9786.3,7765.26,2414.34
+Charlie Davis,alice@example.com,57,male,divorced,masters,self_employed,manager,77199.17,no,employer,1933.41,2184.34,843.76,6195.79,3641.0
+John Doe,charlie@example.com,35,other,widowed,masters,unemployed,manager,119637.41,yes,public,7972.36,7135.64,8308.68,3976.46,2218.04
+Bob Brown,bob@example.com,19,male,widowed,phd,employed,salesperson,99719.29,no,public,3109.38,3969.84,9653.81,6214.19,1757.51
+Jane Smith,alice@example.com,61,male,married,phd,employed,manager,39130.67,no,none,5338.67,6533.33,8649.73,5137.95,3078.06
+Bob Brown,jane@example.com,32,other,divorced,phd,unemployed,engineer,95820.89,yes,none,5939.97,2480.7,6427.9,1677.15,3445.24
+Jane Smith,john@example.com,52,other,married,other,unemployed,doctor,75179.86,yes,private,4030.55,3044.16,1933.32,7738.51,8411.34
+John Doe,charlie@example.com,23,other,divorced,bachelors,unemployed,manager,86417.43,yes,none,2300.37,5425.92,2354.22,1600.5,3709.31
+Charlie Davis,bob@example.com,57,female,widowed,phd,unemployed,manager,25732.48,no,employer,2590.79,5409.02,7414.01,4639.83,5043.76
+Bob Brown,jane@example.com,20,other,widowed,phd,self_employed,engineer,90842.63,no,employer,6712.4,7704.46,5140.05,7727.36,1759.46
+Alice Johnson,charlie@example.com,52,male,divorced,bachelors,unemployed,salesperson,40530.07,yes,none,7153.6,8913.41,9689.68,2887.29,5389.12
+Jane Smith,bob@example.com,64,female,widowed,masters,self_employed,doctor,83825.8,yes,private,7604.8,5165.96,6867.44,2025.58,3728.88
+Alice Johnson,john@example.com,65,female,single,bachelors,unemployed,manager,143327.39,yes,employer,4573.28,7324.3,5647.18,8393.94,8754.97
+Jane Smith,bob@example.com,75,male,single,phd,unemployed,doctor,144019.4,no,none,2915.95,7101.64,6546.88,7969.05,7892.51
+Jane Smith,bob@example.com,37,male,single,high school,self_employed,doctor,33604.49,no,public,3430.64,7515.92,7659.21,9214.56,5206.11
+Charlie Davis,alice@example.com,21,male,widowed,high school,unemployed,doctor,102341.07,no,public,9847.86,8192.55,741.46,2608.67,4292.05
+Jane Smith,john@example.com,35,other,divorced,other,unemployed,engineer,82617.99,no,public,5383.84,1220.82,9350.82,9856.63,7518.64
+Jane Smith,bob@example.com,55,other,single,phd,employed,engineer,113407.02,no,private,6646.67,9176.62,5744.26,7688.4,6403.68
+John Doe,jane@example.com,65,male,divorced,high school,self_employed,teacher,97667.71,yes,employer,1177.64,1925.09,1442.95,7513.96,1311.01
+Bob Brown,alice@example.com,71,other,married,masters,unemployed,doctor,116964.29,no,public,1875.23,3099.38,4213.99,1486.27,1066.66
+Bob Brown,john@example.com,60,male,widowed,bachelors,employed,doctor,47510.84,no,public,2907.9,5401.46,1115.97,5975.16,3565.07
+John Doe,jane@example.com,30,male,divorced,high school,self_employed,doctor,27307.77,no,public,4873.22,8674.72,3444.45,4302.43,274.8
+John Doe,charlie@example.com,48,female,widowed,masters,self_employed,doctor,65396.48,no,public,5898.64,1752.45,1779.72,4940.0,3841.26
+Alice Johnson,john@example.com,29,female,widowed,phd,unemployed,teacher,24314.01,no,public,1536.79,7202.1,934.3,7921.52,7740.29
+John Doe,bob@example.com,27,female,married,phd,self_employed,teacher,48061.21,yes,none,3762.37,8200.08,6092.36,6773.43,3540.31
+Bob Brown,bob@example.com,46,female,widowed,phd,unemployed,engineer,40320.92,yes,private,7928.14,6704.0,7900.41,4899.4,6356.83
+Bob Brown,jane@example.com,25,male,single,masters,self_employed,engineer,26569.99,no,public,1500.12,6926.29,8865.92,9759.66,2770.55
+Alice Johnson,alice@example.com,78,other,married,bachelors,employed,teacher,56667.03,yes,none,8246.61,4805.1,3126.41,1304.01,7255.92
+John Doe,bob@example.com,71,female,widowed,other,self_employed,salesperson,31052.75,yes,public,4601.19,9153.14,5431.55,8803.09,8270.37
+John Doe,alice@example.com,39,other,single,masters,employed,doctor,54778.72,no,employer,3400.09,6455.84,4941.68,8292.46,6825.64
+Alice Johnson,jane@example.com,40,other,widowed,masters,unemployed,engineer,54931.18,yes,employer,2275.79,4853.12,5261.51,4686.85,4849.26
+John Doe,charlie@example.com,25,female,married,other,employed,engineer,39335.66,yes,private,6397.49,2491.39,4866.65,3518.6,8935.01
+John Doe,charlie@example.com,30,male,single,high school,employed,manager,110031.04,yes,none,4028.1,7483.03,4952.66,7188.77,76.63
+Jane Smith,bob@example.com,21,female,married,high school,self_employed,manager,110547.55,yes,employer,5911.8,2090.99,3426.25,8776.17,2029.13
+Jane Smith,alice@example.com,77,female,divorced,high school,employed,salesperson,64767.64,yes,employer,9377.48,5130.52,6158.31,6230.07,552.98
+John Doe,alice@example.com,73,male,single,phd,self_employed,doctor,139111.93,yes,private,7547.7,1709.14,1328.91,9773.65,7395.56
+Alice Johnson,bob@example.com,41,female,divorced,other,self_employed,doctor,25122.25,yes,employer,5236.28,6577.71,3453.34,8453.66,6932.52
+Charlie Davis,jane@example.com,19,other,married,bachelors,employed,salesperson,35719.21,no,public,8931.04,6695.15,3325.48,5849.86,8530.45
+Alice Johnson,alice@example.com,47,female,single,other,unemployed,salesperson,39819.76,yes,employer,7470.9,2178.74,558.43,7924.88,8753.68
+Alice Johnson,john@example.com,79,male,widowed,other,employed,manager,91891.64,no,private,2321.72,9459.89,6514.22,3679.9,1480.45
+Bob Brown,john@example.com,21,female,divorced,high school,unemployed,teacher,21607.46,yes,employer,8089.33,6316.68,9503.09,3935.68,8369.01
+Alice Johnson,bob@example.com,27,female,widowed,phd,self_employed,engineer,41609.76,yes,public,3947.6,5110.77,6305.92,4217.98,1530.57
+Alice Johnson,bob@example.com,46,other,married,other,self_employed,manager,46916.79,no,employer,8475.3,8798.21,7297.58,1888.73,7977.9
+Bob Brown,jane@example.com,62,female,divorced,bachelors,employed,manager,74223.26,no,none,3398.19,7691.6,8896.19,5598.93,6605.88
+Charlie Davis,bob@example.com,75,male,divorced,masters,employed,salesperson,43814.24,yes,employer,5700.75,1994.8,456.14,7457.88,5167.89
+John Doe,jane@example.com,38,other,divorced,phd,employed,engineer,108726.96,yes,employer,2638.85,5897.75,6065.72,9753.65,9863.35
+Jane Smith,john@example.com,80,female,married,bachelors,self_employed,teacher,120141.68,yes,employer,3727.16,2402.94,9130.13,5930.95,2904.61
+Alice Johnson,alice@example.com,25,other,widowed,high school,employed,engineer,75634.91,no,public,3940.01,5618.78,7477.68,3198.94,3398.28
+Jane Smith,charlie@example.com,68,other,divorced,high school,employed,teacher,76161.42,no,employer,3129.19,5786.43,379.26,8536.73,109.25
+Charlie Davis,bob@example.com,23,female,married,other,employed,doctor,56556.7,no,none,7540.6,6739.63,2792.64,2664.03,2432.18
+Jane Smith,bob@example.com,42,other,divorced,masters,unemployed,teacher,94504.71,no,none,4488.65,1999.59,9184.58,8831.72,7934.82
+Bob Brown,charlie@example.com,48,female,widowed,masters,employed,engineer,24855.83,no,none,9187.06,2248.43,5990.73,7804.05,1835.48
+Alice Johnson,jane@example.com,36,male,divorced,bachelors,unemployed,teacher,37534.28,no,private,2328.48,9792.02,5086.3,5663.96,169.26
+Bob Brown,charlie@example.com,62,female,divorced,high school,self_employed,teacher,112061.36,yes,none,7415.7,6454.43,6930.23,2198.17,8570.08
+John Doe,jane@example.com,35,female,married,bachelors,self_employed,salesperson,104761.3,no,private,9194.95,3759.6,1250.33,4465.69,6250.74
+Charlie Davis,alice@example.com,79,male,married,phd,self_employed,teacher,61440.03,no,none,4904.32,6812.46,4751.18,8784.31,3833.99
+Jane Smith,john@example.com,72,male,single,masters,employed,salesperson,95491.16,no,employer,1427.06,8779.34,545.91,3951.84,7723.59
+Jane Smith,bob@example.com,37,other,widowed,bachelors,self_employed,salesperson,33482.86,yes,employer,2214.3,9033.14,7382.72,1046.84,2203.58
+John Doe,charlie@example.com,28,female,widowed,high school,self_employed,doctor,42918.16,yes,none,3444.42,9654.89,1619.11,9582.86,5601.51
+Bob Brown,charlie@example.com,61,female,single,other,employed,engineer,93679.73,no,none,6520.75,5784.94,1341.34,4162.5,5571.5
+Alice Johnson,alice@example.com,77,female,single,bachelors,unemployed,teacher,80828.4,no,private,4579.02,2826.54,7465.38,7244.37,1183.85
+Charlie Davis,jane@example.com,37,other,married,bachelors,unemployed,teacher,44234.21,yes,public,1669.92,9612.48,8112.79,3465.71,2732.7
+John Doe,alice@example.com,57,male,widowed,bachelors,unemployed,salesperson,116030.92,no,public,5343.34,9452.16,6934.4,1261.36,9858.63
+John Doe,jane@example.com,31,male,widowed,masters,employed,engineer,130729.56,yes,private,2916.49,8482.11,7161.64,8234.78,5414.94
+John Doe,bob@example.com,51,female,divorced,high school,self_employed,salesperson,122780.57,yes,none,6286.28,5227.96,2980.87,1659.95,9638.9
+John Doe,alice@example.com,77,female,widowed,other,unemployed,teacher,98040.54,no,none,7133.95,6805.0,2566.16,9787.84,9057.33
+Bob Brown,john@example.com,52,female,single,masters,self_employed,manager,74268.58,no,public,2718.33,9455.42,3374.09,5472.67,390.43
+Alice Johnson,john@example.com,23,other,widowed,masters,unemployed,doctor,37503.9,yes,employer,2064.99,9011.05,2144.85,3970.9,5755.01
+Alice Johnson,john@example.com,68,female,widowed,high school,unemployed,salesperson,83492.07,yes,public,8341.3,1153.85,3100.97,4879.37,1913.02
+John Doe,jane@example.com,51,male,single,bachelors,employed,salesperson,25836.91,yes,employer,2225.97,8510.11,1448.9,5771.87,7171.2
+Bob Brown,bob@example.com,62,male,divorced,bachelors,self_employed,engineer,60474.13,no,private,5036.04,9543.56,1963.41,2600.12,3633.0
+Bob Brown,john@example.com,36,male,widowed,phd,unemployed,manager,21001.6,no,private,9599.0,5621.25,1227.64,2608.74,1628.36
+Charlie Davis,alice@example.com,58,female,married,other,self_employed,doctor,99887.68,no,none,4925.56,9121.57,9430.66,3535.03,1376.79
+Charlie Davis,charlie@example.com,63,female,widowed,masters,employed,engineer,75831.47,yes,none,4870.8,6925.22,8575.9,7953.41,6471.45
+Alice Johnson,john@example.com,72,female,single,masters,unemployed,teacher,46030.08,no,employer,9767.04,4410.01,8858.8,8255.12,8695.45
+Alice Johnson,charlie@example.com,51,male,single,bachelors,self_employed,manager,62352.72,no,employer,6623.15,3638.76,3942.95,9430.64,2864.9
+John Doe,bob@example.com,19,male,divorced,masters,self_employed,doctor,30884.2,no,employer,6193.91,8861.68,1530.24,8418.32,3514.72
+John Doe,john@example.com,29,other,single,phd,self_employed,teacher,98464.68,no,none,2374.02,7636.97,1098.68,3401.68,7692.67
+Alice Johnson,charlie@example.com,73,male,widowed,bachelors,employed,teacher,62354.31,no,public,4707.23,3806.93,5612.04,8584.89,9191.38
+John Doe,bob@example.com,70,male,married,masters,self_employed,engineer,37470.64,yes,public,1346.32,3180.18,6286.48,9615.6,9915.85
+John Doe,bob@example.com,80,male,widowed,high school,employed,salesperson,102077.1,no,private,9406.25,3443.57,1061.81,2287.04,1103.69
+Jane Smith,john@example.com,39,female,widowed,other,employed,doctor,53177.13,no,private,5368.21,4580.57,6858.68,5887.13,8735.09
+Bob Brown,jane@example.com,72,female,married,bachelors,self_employed,teacher,132432.53,yes,none,8332.93,9359.25,1199.92,6076.27,6426.44
+John Doe,bob@example.com,53,other,married,phd,unemployed,engineer,87668.73,no,none,8568.65,9826.44,5521.14,7050.8,3321.05
+Bob Brown,jane@example.com,30,other,single,masters,unemployed,teacher,53043.08,no,none,8735.74,2983.1,340.12,3195.47,6634.97
+Bob Brown,bob@example.com,37,male,single,phd,employed,engineer,60798.22,no,none,2917.59,9823.15,8101.27,4839.17,5100.47
+John Doe,bob@example.com,70,female,married,other,unemployed,salesperson,29851.77,yes,public,4384.25,1958.47,9134.46,4850.66,8104.4
+Alice Johnson,john@example.com,37,other,divorced,phd,employed,manager,32857.11,yes,employer,3599.93,1779.06,8688.96,7634.58,374.88
+Jane Smith,charlie@example.com,72,female,single,bachelors,unemployed,engineer,104122.58,no,none,6218.89,3350.22,7660.15,7722.31,6825.42
+Bob Brown,jane@example.com,71,male,divorced,bachelors,employed,doctor,38558.24,yes,private,9207.38,5449.0,3041.07,7347.19,3355.4
+John Doe,jane@example.com,27,female,single,bachelors,unemployed,manager,73373.3,no,private,3251.87,7140.51,5900.5,6322.44,1255.58
+John Doe,charlie@example.com,38,male,widowed,masters,employed,teacher,142852.49,yes,private,9062.6,4646.03,9346.72,7382.22,7528.8
+Bob Brown,alice@example.com,61,male,divorced,phd,self_employed,doctor,85518.55,no,private,7781.2,5429.15,9275.91,9736.92,930.25
+John Doe,alice@example.com,60,male,single,masters,unemployed,doctor,20942.46,no,employer,4308.32,5813.81,9233.89,1840.13,5794.7
+Bob Brown,john@example.com,69,other,single,phd,unemployed,doctor,117428.2,no,public,6546.85,3265.49,1577.66,1151.29,6936.59
+Charlie Davis,alice@example.com,40,male,married,bachelors,unemployed,doctor,70457.33,yes,public,4748.92,9375.08,9863.82,5208.88,2780.59
+Jane Smith,alice@example.com,74,female,single,masters,employed,manager,115395.57,yes,employer,3357.72,5707.09,8344.26,5178.53,4603.56
+Bob Brown,john@example.com,34,male,divorced,high school,unemployed,salesperson,136318.61,yes,private,9015.96,4921.54,6597.0,1288.1,5263.77
+John Doe,john@example.com,79,female,married,phd,unemployed,doctor,27354.5,no,employer,2265.79,4542.98,3197.99,8937.58,6234.05
+John Doe,jane@example.com,70,female,widowed,bachelors,employed,engineer,33901.84,yes,private,2885.03,5543.67,2123.5,4969.27,8272.55
+Bob Brown,john@example.com,61,female,married,other,unemployed,salesperson,23088.21,no,none,8545.38,8661.01,1511.79,6783.28,3961.71
+Bob Brown,john@example.com,32,male,divorced,high school,unemployed,salesperson,85296.36,yes,none,9924.57,3995.27,7150.52,9872.29,7173.52
+John Doe,charlie@example.com,27,female,divorced,high school,self_employed,teacher,53359.38,no,public,9555.01,7434.35,1624.1,7122.54,2926.8
+Charlie Davis,jane@example.com,33,other,widowed,other,employed,salesperson,47904.77,yes,private,4222.04,2928.37,3429.89,5681.32,7604.98
+Charlie Davis,john@example.com,57,female,widowed,high school,self_employed,doctor,78347.73,yes,public,6711.62,6584.73,1822.14,7129.46,8895.81
+Charlie Davis,jane@example.com,65,male,widowed,other,employed,doctor,99473.55,no,private,5634.83,9246.87,7290.45,1823.58,2920.23
+Charlie Davis,jane@example.com,35,other,married,bachelors,self_employed,salesperson,84457.97,no,employer,4507.45,1204.49,8884.73,7197.17,4741.68
+Alice Johnson,bob@example.com,32,female,married,phd,self_employed,doctor,102898.86,no,public,6777.95,9041.11,5586.65,1724.74,3028.44
+Alice Johnson,charlie@example.com,75,other,widowed,phd,employed,manager,149946.94,yes,private,5508.75,2275.7,2064.57,6268.11,2159.89
+Bob Brown,bob@example.com,69,male,widowed,other,unemployed,salesperson,126172.01,yes,private,2112.8,5362.8,7332.4,7391.42,7398.7
+Charlie Davis,charlie@example.com,75,male,divorced,bachelors,employed,doctor,42664.82,yes,employer,3180.84,6588.79,3209.74,2246.86,4751.48
+Charlie Davis,john@example.com,21,other,single,masters,self_employed,salesperson,35757.89,no,public,6127.95,4208.48,4958.79,9237.56,9466.22
+Bob Brown,jane@example.com,51,female,widowed,other,employed,manager,60635.17,yes,public,4365.03,3620.53,6258.9,8871.6,8370.41
+Jane Smith,alice@example.com,43,male,married,phd,employed,doctor,133367.28,yes,private,4623.64,7273.27,6673.99,7631.49,2433.08
+Jane Smith,charlie@example.com,25,female,divorced,masters,self_employed,teacher,87680.05,no,none,6924.85,8094.07,4052.77,2315.13,9258.9
+Bob Brown,john@example.com,22,other,divorced,masters,unemployed,manager,136398.82,yes,employer,1588.2,5987.12,695.08,2969.54,8064.27
+Alice Johnson,alice@example.com,76,female,widowed,other,employed,engineer,145927.8,yes,private,2665.86,1569.94,4053.08,2018.06,6536.95
+John Doe,alice@example.com,49,other,widowed,bachelors,self_employed,salesperson,95912.68,no,private,2684.92,2962.86,5606.25,3303.63,4751.5
+Alice Johnson,jane@example.com,55,male,married,phd,employed,salesperson,101822.49,no,public,8666.16,2512.71,6196.73,3954.25,5905.09
+Alice Johnson,john@example.com,31,male,widowed,high school,employed,manager,42642.28,no,private,1858.94,5700.56,4527.37,7990.84,4862.73
+John Doe,bob@example.com,47,female,divorced,phd,self_employed,salesperson,86824.54,no,none,6516.8,1310.28,388.73,6679.19,2292.47
+Alice Johnson,bob@example.com,60,male,divorced,bachelors,employed,engineer,72423.46,yes,public,7415.3,3889.97,475.78,7860.31,3069.19
+Bob Brown,charlie@example.com,69,female,single,high school,unemployed,doctor,74021.68,yes,public,4637.1,1380.49,690.01,9909.92,5185.31
+Bob Brown,alice@example.com,57,female,single,phd,unemployed,manager,55590.52,yes,employer,1176.02,7986.83,7812.77,8128.44,4819.64
+Jane Smith,alice@example.com,33,other,divorced,other,unemployed,salesperson,51255.6,yes,private,5550.03,7975.13,1536.78,7230.51,1910.41
+Bob Brown,jane@example.com,80,other,widowed,masters,unemployed,doctor,93555.91,no,employer,7150.1,1057.99,9236.25,7994.57,9773.27
+Charlie Davis,alice@example.com,73,female,divorced,other,unemployed,manager,57008.77,no,private,9396.07,4634.07,2071.03,9106.39,6117.32
+Charlie Davis,john@example.com,58,female,single,high school,self_employed,engineer,98704.39,no,none,6644.81,4837.2,5664.37,5407.73,3415.3
+Bob Brown,charlie@example.com,51,female,single,high school,employed,engineer,121749.02,yes,public,9641.5,1470.07,5105.29,2427.4,5690.06
+Charlie Davis,charlie@example.com,50,other,divorced,bachelors,employed,manager,30317.43,no,private,4650.45,6760.83,1034.99,8946.29,6057.58
+Alice Johnson,charlie@example.com,50,male,married,masters,self_employed,engineer,55632.03,no,public,5352.99,4820.25,1547.73,6859.23,4828.88
+Bob Brown,charlie@example.com,29,other,married,masters,unemployed,teacher,147810.24,yes,public,3142.17,9632.8,7099.59,3878.03,9756.55
+Bob Brown,bob@example.com,44,other,widowed,bachelors,employed,manager,35897.21,yes,employer,5988.83,6906.86,964.16,9155.21,4630.46
+Charlie Davis,charlie@example.com,22,female,widowed,bachelors,self_employed,teacher,64143.38,no,private,4634.49,4148.59,7637.27,3674.3,5664.29
+John Doe,jane@example.com,65,other,single,bachelors,self_employed,doctor,83408.14,no,none,5010.45,8017.43,6854.35,7071.2,4514.54
+John Doe,alice@example.com,59,other,married,bachelors,employed,doctor,29761.45,yes,none,4295.81,9069.96,4243.13,1490.94,8477.27
+Charlie Davis,alice@example.com,43,female,single,phd,unemployed,doctor,98318.66,yes,employer,3513.71,4700.42,4894.21,7095.48,6506.6
+Charlie Davis,charlie@example.com,57,female,divorced,phd,employed,teacher,94440.96,yes,none,1973.35,9857.85,7387.56,2078.12,6408.33
+John Doe,john@example.com,56,other,single,other,self_employed,salesperson,85354.87,no,employer,7286.26,1804.57,9221.29,9208.12,3333.9
+Bob Brown,john@example.com,59,other,single,masters,unemployed,engineer,53991.17,no,none,9877.96,5051.54,8896.65,8024.6,6974.34
+Charlie Davis,john@example.com,22,male,widowed,other,unemployed,manager,37982.35,yes,employer,7161.27,2945.26,8383.98,6429.13,6243.94
+John Doe,bob@example.com,34,female,single,bachelors,employed,teacher,97083.29,yes,employer,8202.94,5301.24,2323.7,6094.08,4610.49
+Jane Smith,bob@example.com,62,female,divorced,bachelors,employed,manager,126134.68,yes,private,7607.23,6165.34,2786.69,3891.09,1839.49
+Charlie Davis,jane@example.com,62,other,widowed,other,unemployed,engineer,83892.72,no,employer,5640.77,8650.08,4344.45,2793.78,7751.32
+Jane Smith,alice@example.com,25,other,married,masters,employed,doctor,91838.32,no,private,2906.9,7769.09,4131.81,7152.45,9570.95
+John Doe,jane@example.com,76,other,divorced,phd,self_employed,teacher,52251.49,no,public,9200.55,1007.52,7718.01,5395.51,7823.8
+Bob Brown,alice@example.com,34,female,married,masters,self_employed,engineer,117299.9,no,none,7641.36,7460.32,7199.46,1392.76,9840.81
+Alice Johnson,charlie@example.com,75,other,single,masters,unemployed,salesperson,117245.19,yes,none,2920.48,2313.33,7731.42,6907.14,4638.22
+Alice Johnson,charlie@example.com,58,other,widowed,other,employed,engineer,149345.64,yes,public,5529.76,9512.74,3329.65,8682.35,3167.04
+Bob Brown,charlie@example.com,66,other,divorced,high school,unemployed,salesperson,35692.55,no,employer,3261.53,6936.86,5195.73,7802.19,4237.3
+Jane Smith,jane@example.com,23,male,divorced,bachelors,unemployed,salesperson,58890.49,yes,public,3234.54,2859.1,5557.16,5081.14,8941.65
+Alice Johnson,bob@example.com,54,other,married,masters,employed,doctor,101615.97,yes,private,3485.74,5571.95,4334.61,1052.09,7286.16
+Charlie Davis,bob@example.com,68,female,single,phd,employed,manager,67995.8,no,employer,7704.82,7005.84,7111.07,7411.06,2385.62
+John Doe,jane@example.com,41,other,single,high school,self_employed,teacher,26809.46,no,employer,8792.32,8009.86,9940.46,2247.76,7248.66
+Bob Brown,bob@example.com,35,female,married,phd,unemployed,engineer,114214.38,yes,private,1390.21,1415.35,5119.21,3799.71,8782.97
+Alice Johnson,alice@example.com,55,female,widowed,high school,unemployed,salesperson,70291.49,yes,public,8520.15,9102.18,2634.28,9551.64,6926.29
+Bob Brown,jane@example.com,31,other,married,phd,self_employed,doctor,146034.75,no,none,5001.44,1941.44,5340.57,5003.17,9508.12
+John Doe,john@example.com,19,male,single,phd,self_employed,teacher,115941.0,yes,private,1852.27,5815.96,7727.26,2307.11,5638.29
+Jane Smith,bob@example.com,69,male,divorced,phd,self_employed,salesperson,57879.53,yes,private,5811.06,9905.22,5836.73,1480.1,1928.87
+Jane Smith,jane@example.com,47,female,widowed,phd,unemployed,salesperson,73167.21,yes,employer,6208.86,4996.17,2969.15,3737.68,6317.66
+Bob Brown,alice@example.com,75,other,married,bachelors,unemployed,salesperson,138935.09,yes,none,7533.85,6612.48,6285.34,7269.93,9564.55
+John Doe,jane@example.com,49,other,widowed,high school,unemployed,engineer,101469.81,yes,public,5906.65,7719.92,8454.59,3871.6,9794.75
+John Doe,john@example.com,29,other,widowed,other,self_employed,doctor,135745.93,yes,none,5139.36,9001.55,6608.99,2812.64,921.1
+Bob Brown,alice@example.com,77,other,divorced,other,employed,engineer,61989.86,yes,employer,2377.24,8212.28,5677.95,3229.94,1466.56
+Jane Smith,john@example.com,36,female,married,other,employed,manager,87419.07,no,public,8856.65,1602.04,8549.08,9659.85,7799.93
+Charlie Davis,alice@example.com,41,male,single,bachelors,employed,engineer,24821.52,yes,none,7322.11,4094.39,8071.38,1151.46,1694.76
+John Doe,john@example.com,71,male,widowed,bachelors,self_employed,engineer,32620.76,yes,none,7611.67,4624.62,2984.67,2378.84,960.44
+Bob Brown,bob@example.com,47,female,married,phd,self_employed,salesperson,61628.15,yes,employer,8462.78,3848.22,9023.16,4995.92,3862.68
+Alice Johnson,bob@example.com,38,male,single,bachelors,employed,teacher,29966.7,yes,none,7467.09,2587.41,6878.48,7204.83,7211.06
+Bob Brown,bob@example.com,37,female,married,high school,self_employed,doctor,103527.04,yes,none,4645.47,4092.88,6287.29,1439.79,9931.8
+Charlie Davis,alice@example.com,60,female,married,phd,self_employed,salesperson,113162.76,no,public,9628.82,5467.59,9382.84,9451.02,5445.05
+Alice Johnson,alice@example.com,54,female,single,high school,self_employed,salesperson,95779.53,no,private,8051.31,8208.18,4646.42,9294.24,9112.79
+Alice Johnson,bob@example.com,42,other,single,masters,unemployed,doctor,29131.1,no,none,5826.34,6365.7,9271.95,6669.47,9665.55
+Charlie Davis,alice@example.com,27,female,widowed,high school,employed,doctor,109546.42,yes,none,6489.46,6112.08,7742.35,3953.53,629.38
+Jane Smith,john@example.com,38,male,widowed,masters,self_employed,doctor,127502.3,yes,none,3254.22,3964.54,8320.92,4532.44,6243.56
+Charlie Davis,charlie@example.com,77,male,married,phd,unemployed,teacher,50487.95,no,employer,7188.11,7893.31,3905.3,3565.85,1102.48
+Alice Johnson,alice@example.com,54,male,married,bachelors,employed,engineer,40761.16,yes,none,9586.81,1335.53,9755.95,8793.05,3198.19
+Charlie Davis,charlie@example.com,77,female,married,bachelors,employed,manager,62571.01,no,employer,7145.35,3027.1,2388.86,3541.02,3707.22
+John Doe,john@example.com,64,male,divorced,bachelors,self_employed,manager,25272.0,yes,none,1623.62,8145.12,4899.3,4229.0,3836.05
+John Doe,charlie@example.com,73,male,married,bachelors,self_employed,salesperson,35418.91,yes,employer,9229.56,4440.34,2427.42,1182.95,6834.74
+John Doe,john@example.com,46,other,divorced,other,employed,engineer,95729.21,no,private,6632.5,2158.5,2764.81,5928.15,219.15
+Bob Brown,alice@example.com,52,other,widowed,phd,self_employed,doctor,80061.75,yes,private,4482.83,2207.94,3479.29,2107.61,6990.7
+John Doe,bob@example.com,66,other,divorced,masters,employed,engineer,80509.98,yes,none,2546.25,2976.48,3397.77,9700.02,9200.04
+Bob Brown,jane@example.com,66,female,single,other,employed,doctor,106929.14,no,private,2274.73,5496.85,9664.28,5849.8,7851.43
+Charlie Davis,jane@example.com,58,female,widowed,high school,employed,manager,73169.85,yes,employer,9680.11,3095.64,2527.12,4864.8,5485.05
+Bob Brown,jane@example.com,54,other,married,masters,self_employed,manager,136310.84,no,public,2652.94,4538.07,3698.73,6731.3,3509.77
+Jane Smith,alice@example.com,30,female,divorced,other,unemployed,salesperson,110944.01,yes,private,3713.39,2127.06,3385.43,3102.97,1808.03
+Jane Smith,charlie@example.com,74,male,divorced,other,employed,doctor,103028.61,no,private,9787.38,2468.19,4788.03,9492.11,8160.54
+Alice Johnson,bob@example.com,63,female,widowed,other,self_employed,teacher,100245.31,yes,none,7114.11,1468.14,5024.51,2369.67,4238.68
+Bob Brown,charlie@example.com,20,male,divorced,high school,employed,manager,43025.45,no,public,8221.74,4264.26,6332.27,2023.2,7358.05
+Charlie Davis,alice@example.com,46,other,divorced,phd,unemployed,manager,46061.53,yes,public,2815.01,5717.31,6610.17,1282.36,1440.54
+Bob Brown,bob@example.com,27,male,divorced,bachelors,unemployed,doctor,95160.95,no,private,8030.83,6351.17,3294.84,3386.09,753.65
+John Doe,john@example.com,58,male,single,masters,employed,doctor,79700.0,no,none,6488.31,4521.64,7434.25,9672.44,3001.15
+Bob Brown,charlie@example.com,62,male,married,high school,employed,engineer,24661.78,yes,public,2043.13,3726.66,5648.74,7890.17,6053.69
+John Doe,charlie@example.com,67,female,widowed,bachelors,unemployed,salesperson,82690.61,no,employer,1839.34,2196.1,7203.95,9424.36,3562.88
+Bob Brown,bob@example.com,59,male,married,high school,self_employed,doctor,34978.32,yes,private,5772.21,6644.7,7395.18,6394.02,2514.65
+Alice Johnson,alice@example.com,27,other,married,phd,employed,teacher,121700.46,yes,none,5419.01,4224.23,9176.25,4325.04,5216.48
+Charlie Davis,alice@example.com,62,other,divorced,other,employed,engineer,77906.15,yes,public,7356.78,2920.86,695.64,3535.31,7700.94
+Jane Smith,bob@example.com,41,male,divorced,other,employed,manager,47753.52,yes,none,4123.31,3365.11,9779.57,3040.81,5321.58
+Jane Smith,jane@example.com,41,other,single,high school,self_employed,doctor,69594.79,yes,employer,5621.5,1619.56,6870.89,2108.16,7573.63
+John Doe,jane@example.com,38,other,divorced,bachelors,unemployed,teacher,24095.99,no,none,6966.04,4731.69,9515.13,2227.15,5343.05
+Charlie Davis,charlie@example.com,40,female,single,phd,unemployed,doctor,25767.33,no,private,9532.33,5806.36,8902.55,5460.56,1416.95
+John Doe,john@example.com,30,male,married,masters,unemployed,manager,21747.23,no,private,1749.92,4555.26,7643.33,1623.72,3055.08
+Charlie Davis,jane@example.com,19,other,widowed,bachelors,unemployed,engineer,64468.91,yes,private,5826.11,5061.68,2111.99,6996.94,3711.15
+Bob Brown,john@example.com,18,other,married,high school,self_employed,teacher,98169.01,yes,employer,5049.88,7406.97,3519.1,6326.68,6386.01
+Charlie Davis,john@example.com,29,male,divorced,phd,self_employed,doctor,85870.22,no,public,7603.27,3584.37,9062.86,1518.79,7548.54
+John Doe,bob@example.com,36,female,widowed,phd,self_employed,teacher,53950.71,yes,public,3864.22,6636.27,5303.57,2771.5,3536.52
+Alice Johnson,charlie@example.com,40,female,married,phd,employed,doctor,131278.19,no,private,3968.32,5328.51,9690.13,8042.34,7266.23
+Alice Johnson,bob@example.com,39,male,married,other,employed,teacher,52987.35,yes,employer,1323.77,6937.2,8030.79,8621.08,1043.38
+Bob Brown,bob@example.com,60,male,married,phd,employed,teacher,105674.87,no,employer,5121.28,7006.02,382.23,3892.43,9248.51
+Charlie Davis,john@example.com,34,female,widowed,other,self_employed,manager,65595.36,yes,public,6568.01,2940.7,2896.81,7751.52,6690.3
+Charlie Davis,charlie@example.com,36,male,married,phd,unemployed,teacher,51700.38,no,public,6968.44,3929.5,1933.41,7256.6,7612.85
+John Doe,charlie@example.com,68,other,widowed,masters,self_employed,engineer,84821.64,no,none,1847.87,9828.92,6330.77,9792.15,2653.25
+Alice Johnson,alice@example.com,42,male,widowed,masters,employed,manager,33924.56,yes,public,3928.43,2617.9,609.48,3137.1,5210.54
+Alice Johnson,bob@example.com,18,female,divorced,high school,self_employed,salesperson,140275.33,no,employer,5495.83,9488.89,3260.69,3001.33,766.83
+Bob Brown,john@example.com,50,other,married,high school,employed,doctor,76120.98,yes,none,9677.64,3885.74,8607.71,7361.53,9616.73
+Charlie Davis,charlie@example.com,44,male,married,masters,employed,salesperson,80408.45,yes,employer,1764.22,1461.76,7449.16,8436.11,5277.56
+Bob Brown,jane@example.com,33,other,single,phd,unemployed,doctor,46389.5,yes,public,4554.67,2270.68,1281.42,5214.83,3572.97
+Jane Smith,jane@example.com,29,female,divorced,bachelors,employed,salesperson,32703.98,no,public,8410.23,3842.7,1143.77,4201.75,7599.92
+John Doe,bob@example.com,56,male,widowed,other,self_employed,manager,137809.75,yes,private,8568.04,5477.09,5941.36,4572.89,919.83
+Bob Brown,jane@example.com,31,male,divorced,phd,employed,salesperson,63769.86,no,none,7123.65,7796.76,8342.24,2445.5,1609.26
+Bob Brown,charlie@example.com,47,other,widowed,phd,self_employed,manager,42199.91,yes,private,6669.04,6873.32,7602.74,5057.28,855.77
+Bob Brown,bob@example.com,39,other,divorced,phd,self_employed,salesperson,75635.17,no,private,2633.47,3990.48,3461.92,5368.38,1082.39
+Charlie Davis,alice@example.com,70,other,single,bachelors,employed,manager,35626.1,no,public,9449.58,5672.52,7820.28,8047.39,7591.9
+Alice Johnson,bob@example.com,26,other,single,bachelors,self_employed,doctor,41436.18,yes,none,3058.5,2422.2,6956.66,3258.99,912.21
+Alice Johnson,jane@example.com,48,female,widowed,other,employed,doctor,116204.93,no,employer,4192.55,4548.12,722.78,8470.63,4311.78
+Bob Brown,charlie@example.com,38,male,divorced,bachelors,unemployed,doctor,130061.23,yes,none,5196.43,2709.01,4305.47,2282.7,1780.55
+Bob Brown,john@example.com,44,male,divorced,other,employed,manager,145911.4,yes,employer,1301.98,6822.28,389.85,3218.26,5358.77
+Charlie Davis,alice@example.com,61,female,widowed,bachelors,employed,salesperson,83351.53,no,employer,8395.73,3607.18,1915.78,8327.68,4274.42
+Bob Brown,john@example.com,43,male,widowed,bachelors,employed,doctor,103628.12,yes,private,6584.57,9046.57,8308.78,4368.46,3725.13
+Alice Johnson,john@example.com,32,female,married,high school,employed,teacher,89633.99,no,none,8198.73,2151.12,4327.18,9962.06,1170.86
+Jane Smith,bob@example.com,21,other,married,other,self_employed,manager,57387.3,yes,employer,4470.19,5968.26,4718.94,9518.88,9877.19
+John Doe,charlie@example.com,37,female,widowed,bachelors,unemployed,manager,39231.7,no,public,7188.69,3374.9,4195.46,6112.42,8477.31
+Bob Brown,john@example.com,51,other,single,masters,self_employed,doctor,84113.73,no,none,5341.79,6228.67,2371.34,6988.72,4936.54
+Bob Brown,john@example.com,25,male,widowed,masters,employed,manager,142674.28,no,public,3715.96,4107.29,6041.96,7557.67,6833.19
+Alice Johnson,charlie@example.com,73,male,widowed,phd,employed,doctor,122836.34,yes,employer,9545.89,4972.78,1481.99,8250.05,4614.73
+Alice Johnson,bob@example.com,42,female,widowed,phd,self_employed,engineer,30745.01,no,employer,2645.74,4272.68,7270.54,2344.42,649.87
+Jane Smith,charlie@example.com,24,female,widowed,masters,unemployed,manager,112012.69,yes,private,1323.65,6959.23,2669.01,9866.06,5050.69
+John Doe,jane@example.com,62,male,single,high school,employed,doctor,25092.33,no,employer,9683.12,5021.08,8734.86,6964.37,1393.59
+John Doe,john@example.com,79,male,widowed,bachelors,unemployed,teacher,129760.41,no,private,3166.21,9113.49,6315.51,6928.98,9382.4
+Bob Brown,jane@example.com,42,female,divorced,masters,employed,doctor,70041.45,no,none,6116.58,4337.93,8758.12,4670.85,2347.28
+Jane Smith,jane@example.com,23,male,widowed,other,unemployed,manager,107834.81,no,employer,2353.91,2210.78,3500.46,1567.42,7835.68
+Bob Brown,charlie@example.com,49,female,single,other,unemployed,manager,66651.03,yes,employer,9219.17,2783.27,443.45,1847.61,4420.12
+Alice Johnson,jane@example.com,20,other,divorced,masters,unemployed,manager,32555.53,no,none,6014.98,5396.08,8095.6,1888.52,594.04
+Jane Smith,alice@example.com,24,other,widowed,high school,self_employed,doctor,55368.43,yes,public,6445.84,5614.37,1125.81,9710.62,7392.24
+Jane Smith,charlie@example.com,80,female,widowed,bachelors,self_employed,teacher,121612.19,yes,private,6517.55,3688.82,6829.19,8768.12,325.86
+John Doe,charlie@example.com,30,female,widowed,bachelors,self_employed,manager,135521.84,no,employer,1040.7,7903.61,6448.28,8034.09,9137.32
+Alice Johnson,alice@example.com,47,other,single,other,unemployed,salesperson,101781.54,yes,public,5863.11,4734.11,6104.4,1259.54,2556.24
+Bob Brown,alice@example.com,57,male,married,masters,self_employed,doctor,26211.91,yes,employer,8439.45,9376.22,9366.72,8643.57,7056.73
+Charlie Davis,bob@example.com,77,other,divorced,masters,self_employed,salesperson,42622.51,yes,public,4528.64,8962.4,1543.4,8849.07,3344.98
+John Doe,bob@example.com,45,other,widowed,masters,unemployed,salesperson,99803.71,yes,public,2620.0,1174.67,4763.07,2209.97,7409.06
+Alice Johnson,alice@example.com,33,male,married,bachelors,self_employed,doctor,125864.91,yes,private,7134.66,7305.0,9218.51,3538.26,6804.86
+Charlie Davis,charlie@example.com,80,female,single,phd,self_employed,salesperson,141625.19,no,employer,2481.86,2368.65,6902.52,7019.5,1889.57
+Charlie Davis,jane@example.com,36,male,married,phd,unemployed,doctor,86199.39,no,public,5106.8,1003.87,7820.87,8495.32,5902.76
+Bob Brown,jane@example.com,23,female,married,bachelors,unemployed,salesperson,63097.91,yes,employer,9902.72,2374.26,6290.91,5521.43,8084.63
+Alice Johnson,alice@example.com,41,male,married,phd,self_employed,doctor,49780.12,no,private,3090.29,9736.65,8676.0,8893.42,9515.02
+John Doe,bob@example.com,18,female,married,bachelors,unemployed,manager,110603.53,yes,employer,7419.71,4625.22,9075.92,3427.18,7186.63
+John Doe,bob@example.com,68,female,single,bachelors,employed,teacher,130133.68,yes,public,8637.9,5203.0,9083.42,2541.5,8392.94
+Charlie Davis,charlie@example.com,42,female,widowed,masters,employed,engineer,110753.6,no,employer,7406.9,1322.36,1658.38,1448.76,490.7
+Bob Brown,jane@example.com,28,female,single,masters,self_employed,engineer,127985.13,no,employer,1038.6,5086.0,6486.5,2993.32,5644.45
+Jane Smith,alice@example.com,37,male,widowed,masters,employed,manager,58706.37,no,none,4543.43,4477.45,7849.46,6677.72,7039.42
+John Doe,charlie@example.com,76,other,married,masters,employed,teacher,113851.78,no,public,6899.27,3898.51,3388.49,7007.33,2030.2
+Alice Johnson,bob@example.com,57,other,divorced,phd,self_employed,manager,90547.47,no,employer,3262.66,9880.66,1167.39,9238.59,16.61
+Jane Smith,bob@example.com,57,other,widowed,masters,unemployed,salesperson,34484.44,no,public,3804.43,7466.12,9460.17,4226.17,654.15
+Alice Johnson,charlie@example.com,53,male,married,bachelors,self_employed,engineer,47276.94,yes,private,6843.27,8758.38,3332.71,4582.96,152.09
+Jane Smith,bob@example.com,51,other,widowed,masters,employed,engineer,100006.4,yes,public,4928.77,4861.48,5057.91,4140.05,292.55
+Alice Johnson,jane@example.com,50,male,married,phd,unemployed,teacher,37251.71,no,employer,4146.79,2962.32,8479.58,2546.58,7534.04
+John Doe,john@example.com,72,other,divorced,other,employed,engineer,97203.08,no,private,4148.04,4363.76,4341.74,3148.64,2966.98
+Alice Johnson,alice@example.com,55,female,widowed,phd,employed,manager,32075.85,yes,public,6281.91,4620.75,6396.64,8251.78,3895.93
+Jane Smith,john@example.com,47,male,married,phd,employed,teacher,106766.69,yes,private,9912.23,4994.4,5737.95,3457.4,9665.91
+Alice Johnson,bob@example.com,68,female,married,phd,self_employed,salesperson,21002.32,yes,public,5617.54,6056.04,5126.14,1029.98,2726.47
+Alice Johnson,jane@example.com,24,female,widowed,bachelors,employed,engineer,45321.75,no,private,4348.78,7827.01,9665.39,6083.98,3625.99
+Jane Smith,charlie@example.com,41,male,widowed,masters,self_employed,doctor,110090.29,yes,public,4316.33,7459.85,9926.87,1081.03,8014.43
+Alice Johnson,jane@example.com,29,female,widowed,phd,unemployed,teacher,95048.35,no,private,3384.79,7694.92,5563.76,3787.96,244.06
+John Doe,john@example.com,33,female,divorced,masters,employed,engineer,69123.37,yes,public,4913.82,4077.21,9239.35,7605.97,2376.3
+Alice Johnson,john@example.com,40,male,divorced,phd,self_employed,manager,97465.26,yes,private,5798.21,4484.24,8102.89,8566.11,38.1
+Alice Johnson,alice@example.com,56,female,divorced,masters,employed,manager,113033.57,no,employer,9248.65,5777.96,4250.69,1053.0,9385.47
+John Doe,bob@example.com,48,male,married,high school,unemployed,salesperson,43860.62,no,public,6570.01,7875.61,9031.14,5728.54,4975.76
+John Doe,bob@example.com,33,male,single,bachelors,self_employed,salesperson,108639.35,no,none,9855.85,1367.82,509.89,8122.38,2236.25
+Alice Johnson,bob@example.com,44,male,married,other,unemployed,doctor,84516.48,no,public,1335.65,1497.92,1694.68,2143.04,4183.36
+Jane Smith,john@example.com,67,female,widowed,other,employed,salesperson,132720.19,yes,none,3241.09,5047.86,2022.26,8644.08,7129.6
+Jane Smith,bob@example.com,25,other,divorced,bachelors,employed,doctor,112079.03,yes,none,9534.56,9383.24,6278.54,4451.12,5596.36
+John Doe,charlie@example.com,42,female,married,masters,self_employed,teacher,42532.32,no,none,7219.05,8172.94,8078.9,6924.61,9930.31
+John Doe,jane@example.com,71,female,divorced,other,self_employed,manager,76699.64,no,employer,5749.85,6681.91,6508.98,9002.97,9550.64
+Charlie Davis,jane@example.com,68,female,divorced,other,employed,manager,123242.42,no,public,6155.17,6078.0,6577.35,6198.69,7149.79
+Bob Brown,alice@example.com,61,female,single,other,self_employed,teacher,109576.04,no,public,3572.54,5881.83,2493.98,2806.59,1145.49
+John Doe,john@example.com,30,male,widowed,phd,employed,doctor,25373.53,yes,employer,4730.41,4058.15,3694.43,7098.2,5018.83
+John Doe,charlie@example.com,74,other,widowed,phd,self_employed,doctor,50198.08,yes,public,2422.73,3586.71,8318.94,8696.38,3921.86
+Bob Brown,john@example.com,73,other,widowed,bachelors,self_employed,teacher,149662.22,no,none,1062.36,6389.56,706.27,2043.41,4803.2
+Jane Smith,john@example.com,43,male,married,masters,self_employed,doctor,101563.42,yes,employer,2344.64,8550.87,6972.86,8992.29,8948.94
+Charlie Davis,jane@example.com,69,female,widowed,other,unemployed,teacher,64903.09,yes,private,3578.99,2482.47,4790.82,3087.88,2941.11
+Bob Brown,charlie@example.com,46,female,widowed,phd,unemployed,teacher,132820.44,no,public,5818.89,2944.39,732.31,2369.22,7866.7
+Charlie Davis,alice@example.com,43,female,widowed,high school,self_employed,manager,73354.04,yes,private,7778.47,1304.84,424.56,1001.77,1982.36
+Charlie Davis,jane@example.com,76,other,married,phd,employed,salesperson,79391.96,yes,public,6494.05,1335.07,932.53,7984.4,2708.02
+Charlie Davis,charlie@example.com,48,female,divorced,phd,self_employed,teacher,52263.98,no,private,1722.33,6608.84,542.58,7075.73,8150.87
+Bob Brown,john@example.com,58,female,divorced,bachelors,unemployed,manager,59886.88,yes,none,5263.55,9331.03,9799.76,1097.15,9144.83
+Alice Johnson,bob@example.com,20,male,single,phd,self_employed,teacher,66181.95,yes,employer,2404.83,9787.31,6496.84,7503.22,7538.76
+Bob Brown,jane@example.com,55,female,married,phd,employed,doctor,133225.6,yes,public,8373.28,1010.73,7277.82,7327.82,3591.01
+Jane Smith,jane@example.com,29,male,divorced,phd,self_employed,teacher,130220.58,yes,none,8811.64,1859.59,1803.13,5622.77,5541.44
+John Doe,jane@example.com,58,female,divorced,other,unemployed,teacher,78623.85,yes,none,6430.77,1074.6,2885.58,3309.05,5036.16
+Alice Johnson,bob@example.com,20,female,married,bachelors,employed,manager,45531.92,no,none,9534.52,8178.64,5935.62,1900.09,6616.01
+Jane Smith,alice@example.com,23,male,married,other,self_employed,salesperson,65484.58,no,none,3403.18,6334.03,7889.36,4999.88,9026.94
+Alice Johnson,bob@example.com,74,male,married,high school,unemployed,teacher,134778.98,no,none,1163.18,6442.61,2619.9,7308.08,9597.15
+Jane Smith,john@example.com,68,other,married,phd,unemployed,doctor,100594.22,yes,private,4579.44,7673.1,4820.49,9595.48,2447.55
+Bob Brown,alice@example.com,63,other,divorced,bachelors,self_employed,doctor,27643.58,yes,employer,9254.17,8914.01,1782.92,7634.43,2110.26
+Charlie Davis,jane@example.com,21,other,divorced,masters,employed,manager,105951.94,no,public,6074.33,6220.79,6134.71,5540.36,6604.05
+Alice Johnson,charlie@example.com,56,other,widowed,phd,employed,teacher,138354.81,yes,employer,3850.28,6794.3,4857.36,7865.04,6176.52
+Charlie Davis,charlie@example.com,55,male,widowed,phd,employed,engineer,44944.21,yes,employer,8230.07,3358.08,8804.31,6765.51,3595.23
+Bob Brown,jane@example.com,53,male,widowed,bachelors,unemployed,doctor,87582.77,no,none,1164.9,3038.19,2346.66,4367.24,9577.39
+Bob Brown,charlie@example.com,45,male,single,phd,unemployed,manager,107377.96,yes,public,2587.37,2534.85,4657.27,7566.61,4832.6
+Charlie Davis,charlie@example.com,41,other,widowed,bachelors,employed,manager,32794.54,no,employer,5409.46,3123.06,9845.35,3555.64,2761.98
+Bob Brown,john@example.com,49,male,single,phd,unemployed,engineer,113861.12,yes,employer,5055.56,8106.79,6052.05,4120.79,5705.26
+Alice Johnson,bob@example.com,24,male,widowed,other,unemployed,salesperson,102665.46,yes,none,9416.26,4087.69,8931.29,7995.8,1040.29
+Bob Brown,charlie@example.com,49,male,divorced,high school,self_employed,doctor,44420.27,no,private,2882.59,2327.43,1418.93,5554.9,3363.96
+Bob Brown,jane@example.com,48,male,divorced,bachelors,self_employed,engineer,121402.07,no,private,8466.77,4819.48,9467.32,5343.9,6422.52
+Jane Smith,bob@example.com,68,other,widowed,other,unemployed,teacher,34707.99,no,none,3835.06,4211.98,4810.41,9345.83,2096.47
+Charlie Davis,john@example.com,34,male,married,bachelors,self_employed,doctor,93585.23,no,none,8987.34,2191.83,7980.16,9738.12,4820.95
+John Doe,charlie@example.com,44,other,widowed,masters,self_employed,salesperson,120959.51,yes,employer,9317.06,8150.77,4401.6,1084.97,9264.42
+Jane Smith,jane@example.com,77,male,married,phd,employed,teacher,64139.95,yes,private,7552.18,5199.7,7485.79,6553.48,1894.95
+John Doe,jane@example.com,42,other,married,other,employed,doctor,51605.58,yes,none,3720.17,9351.38,4638.7,1017.62,3487.11
+Bob Brown,jane@example.com,29,female,married,masters,unemployed,teacher,116276.83,no,employer,3893.59,5582.91,6414.88,8090.23,2306.41
+John Doe,jane@example.com,25,female,widowed,high school,self_employed,manager,88344.52,no,employer,5648.76,8149.27,5888.32,2298.51,4261.45
+Charlie Davis,jane@example.com,39,other,married,bachelors,unemployed,doctor,120415.23,yes,public,3134.77,1437.19,5499.78,7577.04,3014.73
+Jane Smith,john@example.com,22,male,married,high school,unemployed,doctor,34651.47,no,employer,2615.55,6769.74,2241.46,1718.19,2922.73
+Charlie Davis,alice@example.com,56,other,married,bachelors,employed,salesperson,120322.04,no,public,6542.52,8909.48,8837.48,4651.81,4751.37
+Charlie Davis,jane@example.com,18,male,divorced,other,employed,teacher,147896.47,no,none,3312.15,8009.46,2368.11,5736.3,1606.27
+Jane Smith,john@example.com,61,other,single,phd,self_employed,engineer,61363.21,yes,employer,6212.57,6227.79,5552.27,1180.94,7289.42
+Alice Johnson,charlie@example.com,70,female,divorced,masters,employed,salesperson,39516.03,no,private,1945.12,8856.62,468.47,1759.56,7461.92
+Bob Brown,alice@example.com,48,female,single,bachelors,employed,teacher,36052.11,no,none,7479.34,3724.54,2102.58,5410.99,4987.49
+Charlie Davis,bob@example.com,32,male,married,masters,self_employed,engineer,56726.61,no,public,1421.89,1154.39,2676.34,6375.0,5543.16
+Bob Brown,alice@example.com,52,other,married,phd,employed,manager,35199.05,yes,employer,9921.56,1322.47,1653.5,1136.68,4207.58
+John Doe,john@example.com,25,other,widowed,high school,self_employed,manager,84993.29,no,none,9191.48,4313.94,2700.41,9464.53,5076.21
+John Doe,jane@example.com,62,other,widowed,high school,unemployed,manager,89999.8,yes,public,5643.17,3276.17,5233.74,3221.37,4749.87
+Alice Johnson,jane@example.com,54,female,married,high school,employed,salesperson,50915.06,no,private,3490.66,1152.95,743.81,2055.9,4661.95
+Bob Brown,jane@example.com,28,male,married,other,unemployed,manager,102477.22,no,public,8664.7,9130.6,7640.07,7170.82,3488.07
+Bob Brown,alice@example.com,56,male,divorced,phd,self_employed,salesperson,60559.38,no,private,8083.37,1426.44,781.89,8131.13,7104.67
+Jane Smith,bob@example.com,74,male,divorced,masters,self_employed,manager,100573.12,no,private,4958.7,4706.08,1966.48,9542.76,8335.05
+Alice Johnson,bob@example.com,41,other,widowed,phd,unemployed,manager,66966.77,no,none,1841.46,1988.33,3891.57,4914.86,8266.75
+Alice Johnson,jane@example.com,33,female,widowed,other,employed,manager,105124.86,no,employer,2563.38,8485.33,251.22,2110.01,7857.5
+Bob Brown,jane@example.com,26,male,single,bachelors,employed,doctor,81508.7,no,private,2168.92,2946.48,3770.15,4936.7,8202.87
+Charlie Davis,charlie@example.com,70,male,divorced,high school,employed,engineer,113614.02,no,none,8408.95,3083.79,5523.01,8030.22,1416.93
+Jane Smith,charlie@example.com,55,female,single,high school,employed,manager,80476.26,no,none,3162.55,6699.62,5404.8,9666.56,9922.42
+Charlie Davis,charlie@example.com,80,female,widowed,masters,employed,teacher,79988.43,yes,employer,1170.86,5150.06,7934.12,4218.5,4990.1
+John Doe,alice@example.com,48,male,married,other,self_employed,teacher,57943.38,yes,public,1070.37,7476.78,8272.38,9886.65,3923.0
+Inimfon Peter,ini@gmail.com,28,female,single,high_school,unemployed,Student,50000.0,no,none,1000.0,2000.0,500.0,0.0,10000.0

@@ -1,0 +1,226 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8 form-container">
+        <h1 class="text-center mb-4">Income Spending Survey</h1>
+        <form method="POST">
+            {{ form.hidden_tag() }}
+            
+            <div class="mb-3">
+                {{ form.name.label(class="form-label") }}
+                {{ form.name(class="form-control") }}
+                {% for error in form.name.errors %}
+                    <span class="text-danger">{{ error }}</span>
+                {% endfor %}
+            </div>
+
+            <div class="mb-3">
+                {{ form.email.label(class="form-label") }}
+                {{ form.email(class="form-control") }}
+                {% for error in form.email.errors %}
+                    <span class="text-danger">{{ error }}</span>
+                {% endfor %}
+            </div>
+
+            <div class="mb-3">
+                {{ form.age.label(class="form-label") }}
+                {{ form.age(class="form-control") }}
+                {% for error in form.age.errors %}
+                    <span class="text-danger">{{ error }}</span>
+                {% endfor %}
+            </div>
+
+            <div class="mb-3">
+                {{ form.gender.label(class="form-label") }}
+                <div>
+                {% for subfield in form.gender %}
+                    <div class="form-check form-check-inline">
+                        {{ subfield(class="form-check-input") }}
+                        {{ subfield.label(class="form-check-label") }}
+                    </div>
+                {% endfor %}
+                </div>
+                {% for error in form.gender.errors %}
+                    <span class="text-danger">{{ error }}</span>
+                {% endfor %}
+            </div>
+
+            <div class="mb-3">
+                {{ form.marital_status.label(class="form-label") }}
+                <div>
+                {% for subfield in form.marital_status %}
+                    <div class="form-check form-check-inline">
+                        {{ subfield(class="form-check-input") }}
+                        {{ subfield.label(class="form-check-label") }}
+                    </div>
+                {% endfor %}
+                </div>
+                {% for error in form.marital_status.errors %}
+                    <span class="text-danger">{{ error }}</span>
+                {% endfor %}
+            </div>
+
+            <div class="mb-3">
+                {{ form.education.label(class="form-label") }}
+                {{ form.education(class="form-select") }}
+                {% for error in form.education.errors %}
+                    <span class="text-danger">{{ error }}</span>
+                {% endfor %}
+            </div>
+
+            <div class="mb-3">
+                {{ form.employment_status.label(class="form-label") }}
+                {{ form.employment_status(class="form-select") }}
+                {% for error in form.employment_status.errors %}
+                    <span class="text-danger">{{ error }}</span>
+                {% endfor %}
+            </div>
+            
+            <div class="mb-3">
+                {{ form.occupation.label(class="form-label") }}
+                {{ form.occupation(class="form-control") }}
+                {% for error in form.occupation.errors %}
+                    <span class="text-danger">{{ error }}</span>
+                {% endfor %}
+            </div>
+
+            <div class="mb-3">
+                {{ form.income.label(class="form-label") }}
+                {{ form.income(class="form-control") }}
+                {% for error in form.income.errors %}
+                    <span class="text-danger">{{ error }}</span>
+                {% endfor %}
+            </div>
+
+            <h2 class="mt-4 mb-3">Annual Expenses:</h2>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <div class="form-check">
+                        <input class="form-check-input expense-checkbox" type="checkbox" id="utilities_check" name="utilities_check">
+                        {{ form.utilities.label(class="form-check-label") }}
+                    </div>
+                    <div class="expense-input" style="display: none;">
+                        {{ form.utilities(class="form-control mt-2") }}
+                        {% for error in form.utilities.errors %}
+                            <span class="text-danger">{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <div class="form-check">
+                        <input class="form-check-input expense-checkbox" type="checkbox" id="shopping_check" name="shopping_check">
+                        {{ form.shopping.label(class="form-check-label") }}
+                    </div>
+                    <div class="expense-input" style="display: none;">
+                        {{ form.shopping(class="form-control mt-2") }}
+                        {% for error in form.shopping.errors %}
+                            <span class="text-danger">{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <div class="form-check">
+                        <input class="form-check-input expense-checkbox" type="checkbox" id="healthcare_check" name="healthcare_check">
+                        {{ form.healthcare.label(class="form-check-label") }}
+                    </div>
+                    <div class="expense-input" style="display: none;">
+                        {{ form.healthcare(class="form-control mt-2") }}
+                        {% for error in form.healthcare.errors %}
+                            <span class="text-danger">{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <div class="form-check">
+                        <input class="form-check-input expense-checkbox" type="checkbox" id="entertainment_check" name="entertainment_check">
+                        {{ form.entertainment.label(class="form-check-label") }}
+                    </div>
+                    <div class="expense-input" style="display: none;">
+                        {{ form.entertainment(class="form-control mt-2") }}
+                        {% for error in form.entertainment.errors %}
+                            <span class="text-danger">{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <div class="form-check">
+                        <input class="form-check-input expense-checkbox" type="checkbox" id="school_fees_check" name="school_fees_check">
+                        {{ form.school_fees.label(class="form-check-label") }}
+                    </div>
+                    <div class="expense-input" style="display: none;">
+                        {{ form.school_fees(class="form-control mt-2") }}
+                        {% for error in form.school_fees.errors %}
+                            <span class="text-danger">{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+
+            <h2 class="mt-4 mb-3">Health Insurance:</h2>
+            <div class="mb-3">
+                {{ form.has_health_insurance.label(class="form-label") }}
+                <div>
+                {% for subfield in form.has_health_insurance %}
+                    <div class="form-check form-check-inline">
+                        {{ subfield(class="form-check-input") }}
+                        {{ subfield.label(class="form-check-label") }}
+                    </div>
+                {% endfor %}
+                </div>
+                {% for error in form.has_health_insurance.errors %}
+                    <span class="text-danger">{{ error }}</span>
+                {% endfor %}
+            </div>
+
+            <div class="mb-3">
+                {{ form.insurance_type.label(class="form-label") }}
+                {{ form.insurance_type(class="form-select") }}
+                {% for error in form.insurance_type.errors %}
+                    <span class="text-danger">{{ error }}</span>
+                {% endfor %}
+            </div>
+
+            <div class="text-center mt-4">
+                {{ form.submit(class="btn btn-primary btn-lg") }}
+            </div>
+        </form>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var hasInsuranceRadios = document.querySelectorAll('input[name="has_health_insurance"]');
+        var insuranceTypeSelect = document.getElementById('insurance_type');
+        var insuranceTypeDiv = insuranceTypeSelect.closest('.mb-3');
+    
+        function updateInsuranceTypeVisibility() {
+            var hasInsurance = document.querySelector('input[name="has_health_insurance"]:checked').value;
+            if (hasInsurance === 'yes') {
+                insuranceTypeDiv.style.display = 'block';
+                insuranceTypeSelect.value = '';  // Reset to default option
+            } else {
+                insuranceTypeDiv.style.display = 'none';
+                insuranceTypeSelect.value = 'none';
+            }
+        }
+    
+        hasInsuranceRadios.forEach(function(radio) {
+            radio.addEventListener('change', updateInsuranceTypeVisibility);
+        });
+    
+        // Initial call to set correct state
+        updateInsuranceTypeVisibility();
+    });
+</script>    
+{% endblock %}
